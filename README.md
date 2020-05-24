@@ -24,3 +24,9 @@ Programación de un código de Processing que pueda leer el .csv generado. Por a
 Se me ocurrio abrir el .csv en Rhinoceros para visualizar las diferentes nubes de puntos generados de distintas imágenes.
 
 *·Aclaración: Cada imágen genera una nube de puntos, por lo tanto para N cantidad de imágenes, N cantidad de nube de puntos.*
+
+### Imágen analizada
+![](/processing_csv_1/data/image.jpg)
+
+### Nube de puntos - RHINO
+
