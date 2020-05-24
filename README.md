@@ -29,4 +29,4 @@ Se me ocurrio abrir el .csv en Rhinoceros para visualizar las diferentes nubes d
 ![](/processing_csv_1/data/image.jpg)
 
 ### Nube de puntos - RHINO
-
+![](/proceso/image_1.gif)
