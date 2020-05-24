@@ -1,7 +1,6 @@
 # proyecto_eje_tiempo
 ## Desarrollo del proyecto cuatrimestral EJE TIEMPO / MAE UNTREF
 
-## 24 de mayo 2020
 ### Propuesta:
  - Desarrollar una IA que estilo GAN que pueda generar imágenes en base a un dataset específico.
  - A partir de esas imágenes, transladar los valores RGB de cada pixel en puntos XYZ.
@@ -10,3 +9,11 @@
 ### Objetivo a futuro:
 Desarrollar una IA que sea capaz de generar modelos 3D a partir de otros modelos de espacios sensados.
  
+### 24 de mayo - progreso
+
+Programación de código en Processing capaz de "indexar" cada pixel y obtener su valor RGB, luego lo guarda en un .CSV.
+[link al codigo de processing]()
+
+Programación de un código de Processing que pueda leer el .csv generado. Por ahora sin resultados optimos.
+Se me ocurrio abrir el .csv en Rhinoceros para visualizar las diferentes nubes de puntos generados de distintas imágenes.
+*·Aclaración: Cada imágen genera una nube de puntos, por lo tanto a N cantidad de imágenes, N cantidad de nube de puntos.*
