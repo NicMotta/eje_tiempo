@@ -18,6 +18,7 @@ ________________________________________________________________________________
 Programación de código en Processing capaz de "indexar" cada pixel y obtener su valor RGB, luego lo guarda en un .CSV.
 
 [link al codigo de processing](/processing_csv_1)
+
 [link al codigo de processing](https://github.com/NicMotta/proyecto_eje_tiempo/tree/master/processing_csv_1)
 
 Programación de un código de Processing que pueda leer el .csv generado. Por ahora sin resultados optimos.
