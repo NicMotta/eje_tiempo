@@ -1,9 +1,10 @@
 # proyecto_eje_tiempo
+### [Nic Motta](https://nicmotta.github.io)
 ## Desarrollo del proyecto cuatrimestral EJE TIEMPO / MAE UNTREF
-### Nic Motta - 2020
+### Primer Cuatrimestre / 2020
 
 ### Propuesta:
- - Desarrollar una IA que estilo GAN que pueda generar imágenes en base a un dataset específico.
+ - Desarrollar una IA de estilo GAN que pueda generar imágenes en base a un dataset específico.
  - A partir de esas imágenes, transladar los valores RGB de cada pixel en puntos XYZ.
  - Una vez obtenido la nube de puntos, generar un modelo 3D
  
