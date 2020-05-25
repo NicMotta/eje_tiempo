@@ -6,7 +6,7 @@
 ### Propuesta:
  - Desarrollar una IA de estilo GAN que pueda generar imágenes en base a un dataset específico.
  - A partir de esas imágenes, transladar los valores RGB de cada pixel en puntos XYZ.
- - Una vez obtenido la nube de puntos, generar un modelo 3D
+ - Una vez obtenido la nube de puntos, generar un modelo 3D.
  
 ### Objetivo a futuro:
 Desarrollar una IA que sea capaz de generar modelos 3D a partir de otros modelos de espacios sensados.
