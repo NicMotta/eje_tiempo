@@ -3,7 +3,7 @@
 ## Desarrollo del proyecto cuatrimestral EJE TIEMPO / MAE UNTREF
 ### Primer Cuatrimestre / 2020
 
-### Propuesta:
+### Propuesta incial:
  - Desarrollar una IA de estilo GAN que pueda generar imágenes en base a un dataset específico.
  - A partir de esas imágenes, transladar los valores RGB de cada pixel en puntos XYZ.
  - Una vez obtenido la nube de puntos, generar un modelo 3D.
@@ -14,7 +14,7 @@ Desarrollar una IA que sea capaz de generar modelos 3D a partir de otros modelos
 ___________________________________________________________________________________________________________________________
 
 ## Progreso / bitácora
-### 24 de mayo
+### [24 de mayo]
 
 Programación de código en Processing capaz de "indexar" cada pixel y obtener su valor RGB, luego lo guarda en un .CSV.
 
