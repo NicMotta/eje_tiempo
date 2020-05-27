@@ -31,3 +31,9 @@ Se me ocurrio abrir el .csv en Rhinoceros para visualizar las diferentes nubes d
 
 ### Nube de puntos - RHINO
 ![](/proceso/image_1.gif)
+
+______________________________________________________________________________________________________________________________
+### 26 de mayo
+
+Estoy pensando ¿De qué manera se vincula este proyecto de obra con el eje tiempo?
+
