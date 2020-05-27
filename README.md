@@ -33,7 +33,7 @@ Se me ocurrio abrir el .csv en Rhinoceros para visualizar las diferentes nubes d
 ![](/proceso/image_1.gif)
 
 ______________________________________________________________________________________________________________________________
-### 26 de mayo
+### [26 de mayo]
 
 Estoy pensando ¿De qué manera se vincula este proyecto de obra con el eje tiempo?
 
