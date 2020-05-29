@@ -40,7 +40,7 @@ Estoy pensando ¿De qué manera se vincula este proyecto de obra con el eje tiem
 ______________________________________________________________________________________________________________________________
 ### [28 de mayo]
 
-#### Idea nº1
+#### Pensamiento [nivel de profundidad: 1]
 Estructuras >> generar mallas digitales con datos / ¿Que se mueven? - ¿Mutan? - ¿Qué generan otras mallas? - ¿Tiempo real?
 - ¿Por qué me interesan las estructuras en el espacio físico / virtual?
 - ¿Con qué motivo quiero generar esas mallas / estructuras?
@@ -54,12 +54,12 @@ Estructuras >> generar mallas digitales con datos / ¿Que se mueven? - ¿Mutan? 
 2. Guardar en .csv (funcionando)
 3. Graficar a través de MQTT (pendiente)
 
-#### Idea nº2
+#### Pensamiento [nivel de profundidad: 1.5]
 Tener un banco de imágenes (¿Online?) >> Ingresar datos externos de un sensor
 - ¿Qué sensaría? >> ¿Por qué quiero sensar? >> ¿Imágenes de qué?
 ![](/proceso/grafico_1.JPG)
 
-#### Idea nº3
+#### Pensamiento [nivel de profundidad: 2]
 Estructuras kinéticas que responden a cierto patron para su generación. >> Forma en base a X dato.
 - Tener movimiento.
 - Interactuar con el ambiente a través de sensores
@@ -76,7 +76,7 @@ Estructuras kinéticas que responden a cierto patron para su generación. >> For
  -- ¿Algo natural?
  -- ¿Algo que rompa con el entorno?
  
-#### Idea nº4
+#### Pensamiento [nivel de profundidad: 3]
 Sensar con Apps que transforma a 3D un espacio determinado y a partir de ese archivo generar algo que:
 ** Mimetice o rompa** con el lugar / entorno.
 
