@@ -40,4 +40,22 @@ Estoy pensando ¿De qué manera se vincula este proyecto de obra con el eje tiem
 ______________________________________________________________________________________________________________________________
 ### [28 de mayo]
 
+#### Idea nº1
+Estructuras >> generar mallas digitales con datos / ¿Que se mueven? - ¿Mutan? - ¿Qué generan otras mallas? - ¿Tiempo real?
+- ¿Por qué me interesan las estructuras en el espacio físico / virtual?
+- ¿Con qué motivo quiero generar esas mallas / estructuras?
+- ¿ Con qué datos quiero generar eso?
+- ¿Estructuras que podrían ser impresas?
+* Sé lo que quiero, no sé por qué lo quiero. * >> ¿Esto puede ser un motivo?
+
+- Graficar pixeles (funcionando)
+- Guardar en .csv (funcionando)
+- Graficar a través de MQTT (pendiente)
+
+#### Idea nº2
+Tener un banco de imágenes (¿Online?) >> Ingresar datos externos de un sensor
+- ¿Qué sensaría? >> ¿Por qué quiero sensar? >> ¿Imágenes de qué?
 ![](/proceso/grafico_1.JPG)
+
+#### Idea nº3
+
