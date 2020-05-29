@@ -2,6 +2,11 @@
 ### [Nic Motta / web](https://nicmotta.github.io)
 ## Desarrollo del proyecto cuatrimestral EJE TIEMPO / MAE UNTREF
 ### Primer Cuatrimestre / 2020
+___________________________________________________________________________________________________________________________
+
+## Progreso / bitácora
+
+### [23 de mayo]
 
 ### Propuesta incial:
  - Desarrollar una IA de estilo GAN que pueda generar imágenes en base a un dataset específico.
@@ -11,9 +16,7 @@
 ### Objetivo a futuro:
 Desarrollar una IA que sea capaz de generar modelos 3D a partir de otros modelos de espacios sensados.
 
-___________________________________________________________________________________________________________________________
 
-## Progreso / bitácora
 ### [24 de mayo]
 
 Programación de código en Processing capaz de "indexar" cada pixel y obtener su valor RGB, luego lo guarda en un .CSV.
