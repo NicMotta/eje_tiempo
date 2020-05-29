@@ -1,10 +1,8 @@
-# proyecto_eje_tiempo
-### [Nic Motta / web](https://nicmotta.github.io)
+# proyecto_eje_tiempo - Primer Cuatrimestre / 2020
 ## Desarrollo del proyecto cuatrimestral EJE TIEMPO / MAE UNTREF
-### Primer Cuatrimestre / 2020
-___________________________________________________________________________________________________________________________
-
 ## Progreso / bitácora
+#### [Nic Motta](https://nicmotta.github.io)
+___________________________________________________________________________________________________________________________
 
 ### [23 de mayo]
 
