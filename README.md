@@ -88,7 +88,7 @@ Estructuras kinéticas que responden a cierto patrón para su generación. >> Fo
  
 #### Pensamiento [nivel de profundidad: 3]
 Sensar con Apps que transforma a 3D un espacio determinado y a partir de ese archivo generar algo que:
-** Mimetice o rompa** con el lugar / entorno.
+**Mimetice o rompa** con el lugar / entorno.
 
 Si pienso en escanear un lugar es sitio específico
 ¿De qué se alimentan estas estructuras? >> ¿Luz solar? / ¿Autosustentable?
