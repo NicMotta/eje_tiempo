@@ -71,11 +71,14 @@ Estructuras kinéticas que responden a cierto patrón para su generación. >> Fo
 
 **Propósito**
 - Estructuras que dialoguen con el ambiente en el que se encuentra
- -- ¿Dependiendo del lugar, varían los sensores?
- -- ¿Inspirado en los sistemas naturales?
- -- Relacionado con obras anteriores.
+- ¿Dependiendo del lugar, varían los sensores?
+- ¿Inspirado en los sistemas naturales?
+- Relacionado con obras anteriores.
+
  [Obra anterior 1 / input_animalia](https://nicmotta.github.io/input_animalia/)
+ 
  [Obra anterior 2 / data_mesh](https://nicmotta.github.io/data_mesh/)
+ 
  [Obra anterior 3 / data_point](https://nicmotta.github.io/data_point/)
  
 - Buscar cual es la fuente para generar esas estructuras, de donde saco la información. >> Sobre qué me inspiro.
