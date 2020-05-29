@@ -73,6 +73,9 @@ Estructuras kinéticas que responden a cierto patrón para su generación. >> Fo
 - Estructuras que dialoguen con el ambiente en el que se encuentra
 - ¿Dependiendo del lugar, varían los sensores?
 - ¿Inspirado en los sistemas naturales?
+- Buscar cual es la fuente para generar esas estructuras, de donde saco la información. >> Sobre qué me inspiro.
+- ¿Algo natural?
+- ¿Algo que rompa con el entorno?
 - Relacionado con obras anteriores.
 
  [Obra anterior 1 / input_animalia](https://nicmotta.github.io/input_animalia/)
@@ -81,9 +84,7 @@ Estructuras kinéticas que responden a cierto patrón para su generación. >> Fo
  
  [Obra anterior 3 / data_point](https://nicmotta.github.io/data_point/)
  
-- Buscar cual es la fuente para generar esas estructuras, de donde saco la información. >> Sobre qué me inspiro.
- -- ¿Algo natural?
- -- ¿Algo que rompa con el entorno?
+
  
 #### Pensamiento [nivel de profundidad: 3]
 Sensar con Apps que transforma a 3D un espacio determinado y a partir de ese archivo generar algo que:
