@@ -47,9 +47,9 @@ Estructuras >> generar mallas digitales con datos / ¿Que se mueven? - ¿Mutan? 
 - ¿Con qué datos quiero generar eso?
 - ¿Estructuras que podrían ser impresas?
 
-*Sé lo que quiero, no sé por qué lo quiero.* >> ¿Esto puede ser un motivo?
+**Sé lo que quiero, no sé por qué lo quiero.** >> ¿Esto puede ser un motivo?
 
-Avances de la programación en Processing:
+**Avances de la programación en Processing:**
 1. Graficar pixeles (funcionando)
 2. Guardar en .csv (funcionando)
 3. Graficar a través de MQTT (pendiente)
