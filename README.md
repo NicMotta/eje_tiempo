@@ -57,6 +57,9 @@ Estructuras >> generar mallas digitales con datos / ¿Que se mueven? - ¿Mutan? 
 #### Pensamiento [nivel de profundidad: 1.5]
 Tener un banco de imágenes (¿Online?) >> Ingresar datos externos de un sensor
 - ¿Qué sensaría? >> ¿Por qué quiero sensar? >> ¿Imágenes de qué?
+
+Diagráma para entender el proceso:
+
 ![](/proceso/grafico_1.JPG)
 
 #### Pensamiento [nivel de profundidad: 2]
@@ -84,3 +87,4 @@ Si pienso en escanear un lugar es sitio específico
 ¿De qué se alimentan estas estructuras? >> ¿Luz solar? / ¿Autosustentable?
 
 *Siempre tuve preguntas, más preguntas que respuestas y eso me llevó a producir, generar, investigar y aprender.*
+___________________________________________________________________________________________________________________________
