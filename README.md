@@ -6,12 +6,12 @@ ________________________________________________________________________________
 
 ### [23 de mayo]
 
-### Propuesta incial:
+#### Propuesta incial:
  - Desarrollar una IA de estilo GAN que pueda generar imágenes en base a un dataset específico.
  - A partir de esas imágenes, transladar los valores RGB de cada pixel en puntos XYZ.
  - Una vez obtenido la nube de puntos, generar un modelo 3D.
  
-### Objetivo a futuro:
+#### Objetivo a futuro:
 Desarrollar una IA que sea capaz de generar modelos 3D a partir de otros modelos de espacios sensados.
 
 
@@ -27,10 +27,13 @@ Se me ocurrio abrir el .csv en Rhinoceros para visualizar las diferentes nubes d
 
 *·Aclaración: Cada imágen genera una nube de puntos, por lo tanto para N cantidad de imágenes, N cantidad de nube de puntos.*
 
-### Imágen analizada
+
+#### Imágen analizada
+
 ![](/processing_csv_1/data/image.jpg)
 
-### Nube de puntos - RHINO
+#### Nube de puntos - RHINO
+
 ![](/proceso/image_1.gif)
 
 ______________________________________________________________________________________________________________________________
