@@ -63,7 +63,7 @@ Diagráma para entender el proceso:
 ![](/proceso/grafico_1.JPG)
 
 #### Pensamiento [nivel de profundidad: 2]
-Estructuras kinéticas que responden a cierto patron para su generación. >> Forma en base a X dato.
+Estructuras kinéticas que responden a cierto patrón para su generación. >> Forma en base a X dato.
 - Tener movimiento.
 - Interactuar con el ambiente a través de sensores
 - ¿Generar sonido?
@@ -74,6 +74,9 @@ Estructuras kinéticas que responden a cierto patron para su generación. >> For
  -- ¿Dependiendo del lugar, varían los sensores?
  -- ¿Inspirado en los sistemas naturales?
  -- Relacionado con obras anteriores.
+ [Obra anterior 1 / input_animalia](https://nicmotta.github.io/input_animalia/)
+ [Obra anterior 2 / data_mesh](https://nicmotta.github.io/data_mesh/)
+ [Obra anterior 3 / data_point](https://nicmotta.github.io/data_point/)
  
 - Buscar cual es la fuente para generar esas estructuras, de donde saco la información. >> Sobre qué me inspiro.
  -- ¿Algo natural?
