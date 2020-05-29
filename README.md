@@ -47,7 +47,7 @@ Estructuras >> generar mallas digitales con datos / ¿Que se mueven? - ¿Mutan? 
 - ¿Con qué datos quiero generar eso?
 - ¿Estructuras que podrían ser impresas?
 
-**Sé lo que quiero, no sé por qué lo quiero.** >> ¿Esto puede ser un motivo?
+*Sé lo que quiero, no sé por qué lo quiero.* >> ¿Esto puede ser un motivo?
 
 **Avances de la programación en Processing:**
 1. Graficar pixeles (funcionando)
@@ -60,4 +60,27 @@ Tener un banco de imágenes (¿Online?) >> Ingresar datos externos de un sensor
 ![](/proceso/grafico_1.JPG)
 
 #### Idea nº3
+Estructuras kinéticas que responden a cierto patron para su generación. >> Forma en base a X dato.
+- Tener movimiento.
+- Interactuar con el ambiente a través de sensores
+- ¿Generar sonido?
+- Modular / caños / estructural / vertices
 
+**Propósito**
+- Estructuras que dialoguen con el ambiente en el que se encuentra
+ -- ¿Dependiendo del lugar, varían los sensores?
+ -- ¿Inspirado en los sistemas naturales?
+ -- Relacionado con obras anteriores.
+ 
+- Buscar cual es la fuente para generar esas estructuras, de donde saco la información. >> Sobre qué me inspiro.
+ -- ¿Algo natural?
+ -- ¿Algo que rompa con el entorno?
+ 
+#### Idea nº4
+Sensar con Apps que transforma a 3D un espacio determinado y a partir de ese archivo generar algo que:
+** Mimetice o rompa** con el lugar / entorno.
+
+Si pienso en escanear un lugar es sitio específico
+¿De qué se alimentan estas estructuras? >> ¿Luz solar? / ¿Autosustentable?
+
+*Siempre tuve preguntas, más preguntas que respuestas y eso me llevó a producir, generar, investigar y aprender.*
