@@ -99,3 +99,9 @@ Si pienso en escanear un lugar es sitio específico
 
 *Siempre tuve preguntas, más preguntas que respuestas y eso me llevó a producir, generar, investigar y aprender.*
 ___________________________________________________________________________________________________________________________
+
+### [30 de mayo]
+
+¿Qué pasa si utilizo video en vez de imágenes para generar estructuras?
+ - ¿Analizar ese video?
+
