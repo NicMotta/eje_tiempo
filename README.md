@@ -125,6 +125,7 @@ ____
 [link al trabajo online](https://nicmotta.github.io/test_06/)
 
 **[test_06]**
+
 Abordé como idea principal de los [joiners] la representación de un espacio en distintos tiempos. El trabajo “test_06” trata de una prueba donde mediante una aplicación, la cual funciona ubicando puntos en el espacio a partir de fotos, representa un espacio determinado y lo convierte en un archivo tridimensional editable. Me llamó la atención la manera en la cual trabaja la aplicación, se asemeja al procedimiento realizado por David Hockney en sus [joiners]. Para poder representar en tres dimensiones un espacio a partir de imágenes es imprescindible captar la mayor cantidad de tomas y ángulos posibles, que luego en base a los puntos ubicados, crea y compila en un modelo 3D.
 
 El espacio retratado en test_06 es una pequeña porción de mi patio, hice varios [escaneos] y modelos del mismo de diferentes maneras y en diferentes días. Luego todos esos modelos .obj los edite en un software de diseño 3D donde los uní para crear una composición. La intención de hacerlo interactivo y sobre todo online, viene de la mano de que cada persona puede explorar este espacio representado de diferentes maneras, ángulos y encontrar detalles que se repiten o errores de la malla.
