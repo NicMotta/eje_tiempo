@@ -120,6 +120,12 @@ ________________________________________________________________________________
 
 ____
 
+### [1 de junio]
+
+![](/proceso/grafico_2.JPG)
+
+____
+
 ### [2 de junio]
 ##### Trabajo práctico Lenguajes No Lineales / Marcelo Terreni
 [link al trabajo online](https://nicmotta.github.io/test_06/)
