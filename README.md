@@ -15,7 +15,7 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 ____________________________________________________________________________________________________________________________
 
-_____
+__
 ### [23 de mayo]
 
 #### Propuesta incial:
