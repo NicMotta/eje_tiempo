@@ -4,6 +4,18 @@
 #### [Nic Motta](https://nicmotta.github.io)
 ___________________________________________________________________________________________________________________________
 
+
+### [Sinopsis] (en constante cambio)
+
+````
+**eje_tiempo**
+
+asdasdadsfdfdsjg
+fdsgknjdfkjghdfkjghkjdfsghdfsgkdfg
+sfdghsdkfjghksdfgbjkdsfg
+dflskgldjkfhgkjdfsng,sdfngsdfg
+````
+
 ### [23 de mayo]
 
 #### Propuesta incial:
