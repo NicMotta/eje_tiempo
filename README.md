@@ -143,3 +143,8 @@ Genial esa idea de tomar una herramienta pensada para agilizar el modelado 3D a 
 Estaría bueno que sigas experimentado con los materiales, ya sea en ese terreno entre lo orgánico y lo sintético en que se mueven esas obras de Gabriel Rud que mencionaron en clase o por esferas más laterales que te permitan resignificar un poco el camino que llevás recorrido hasta acá (fijate las obras con telas de araña de Tomás Saraceno o la obra de este japonés http://www.spoon-tamago.com/2014/06/04/out-of-disorder-miniature-scenes-of-industrial-japan-sculpted-from-cloth-fibers-and-human-hair-by-takahiro-iwasaki/) 
 
 ____
+
+### [3 de junio]
+
+- ¿Me importa el objeto / entorno que voy a sensar para mi obra? ¿O solamente me interesa generar modelos 3D?
+- 
