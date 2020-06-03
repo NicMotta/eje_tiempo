@@ -136,4 +136,10 @@ Abordé como idea principal de los [joiners] la representación de un espacio en
 
 El espacio retratado en test_06 es una pequeña porción de mi patio, hice varios [escaneos] y modelos del mismo de diferentes maneras y en diferentes días. Luego todos esos modelos .obj los edite en un software de diseño 3D donde los uní para crear una composición. La intención de hacerlo interactivo y sobre todo online, viene de la mano de que cada persona puede explorar este espacio representado de diferentes maneras, ángulos y encontrar detalles que se repiten o errores de la malla.
 
+#### Devolución de Marcelo Terreni
+
+Genial esa idea de tomar una herramienta pensada para agilizar el modelado 3D a partir de representaciones bidimensionales y llevarla para otro lado. Las esculturas que podrían asociarse al cubismo analítico nunca pasaron de la figura y el objeto, por eso es interesante ver cómo se podía trasladar esa idea a la representación de un ambiente que ya de por sí incluye las dimensiones que se pretenden dislocar, un poco al modo de esa perspectiva un poco desarticulada que tiene el Museo Xul Solar. Realmente te quedó un conjunto muy interesante.
+
+Estaría bueno que sigas experimentado con los materiales, ya sea en ese terreno entre lo orgánico y lo sintético en que se mueven esas obras de Gabriel Rud que mencionaron en clase o por esferas más laterales que te permitan resignificar un poco el camino que llevás recorrido hasta acá (fijate las obras con telas de araña de Tomás Saraceno o la obra de este japonés http://www.spoon-tamago.com/2014/06/04/out-of-disorder-miniature-scenes-of-industrial-japan-sculpted-from-cloth-fibers-and-human-hair-by-takahiro-iwasaki/) 
+
 ____
