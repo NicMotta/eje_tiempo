@@ -16,6 +16,24 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 [titulo_de_la_obra] consta de una sketch en Processing la cual toma [datos de internet de XXXXXX sensor / pixeles de imágenes generadas] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
 
 ____________________________________________________________________________________________________________________________
+### [22 de mayo]
+
+##### Trabajo práctico Lenguajes No Lineales / Marcelo Terreni
+[link al trabajo online](https://nicmotta.github.io/test_06/)
+
+**[test_06]**
+
+Abordé como idea principal de los [joiners] la representación de un espacio en distintos tiempos. El trabajo “test_06” trata de una prueba donde mediante una aplicación, la cual funciona ubicando puntos en el espacio a partir de fotos, representa un espacio determinado y lo convierte en un archivo tridimensional editable. Me llamó la atención la manera en la cual trabaja la aplicación, se asemeja al procedimiento realizado por David Hockney en sus [joiners]. Para poder representar en tres dimensiones un espacio a partir de imágenes es imprescindible captar la mayor cantidad de tomas y ángulos posibles, que luego en base a los puntos ubicados, crea y compila en un modelo 3D.
+
+El espacio retratado en test_06 es una pequeña porción de mi patio, hice varios [escaneos] y modelos del mismo de diferentes maneras y en diferentes días. Luego todos esos modelos .obj los edite en un software de diseño 3D donde los uní para crear una composición. La intención de hacerlo interactivo y sobre todo online, viene de la mano de que cada persona puede explorar este espacio representado de diferentes maneras, ángulos y encontrar detalles que se repiten o errores de la malla.
+
+#### Devolución de Marcelo Terreni
+
+Genial esa idea de tomar una herramienta pensada para agilizar el modelado 3D a partir de representaciones bidimensionales y llevarla para otro lado. Las esculturas que podrían asociarse al cubismo analítico nunca pasaron de la figura y el objeto, por eso es interesante ver cómo se podía trasladar esa idea a la representación de un ambiente que ya de por sí incluye las dimensiones que se pretenden dislocar, un poco al modo de esa perspectiva un poco desarticulada que tiene el Museo Xul Solar. Realmente te quedó un conjunto muy interesante.
+
+Estaría bueno que sigas experimentado con los materiales, ya sea en ese terreno entre lo orgánico y lo sintético en que se mueven esas obras de Gabriel Rud que mencionaron en clase o por esferas más laterales que te permitan resignificar un poco el camino que llevás recorrido hasta acá (fijate las obras con telas de araña de Tomás Saraceno o la obra de este japonés http://www.spoon-tamago.com/2014/06/04/out-of-disorder-miniature-scenes-of-industrial-japan-sculpted-from-cloth-fibers-and-human-hair-by-takahiro-iwasaki/) 
+
+____
 
 ### [23 de mayo]
 
@@ -123,24 +141,6 @@ ____
 ### [1 de junio]
 
 ![](/proceso/grafico_2.JPG)
-
-____
-
-### [2 de junio]
-##### Trabajo práctico Lenguajes No Lineales / Marcelo Terreni
-[link al trabajo online](https://nicmotta.github.io/test_06/)
-
-**[test_06]**
-
-Abordé como idea principal de los [joiners] la representación de un espacio en distintos tiempos. El trabajo “test_06” trata de una prueba donde mediante una aplicación, la cual funciona ubicando puntos en el espacio a partir de fotos, representa un espacio determinado y lo convierte en un archivo tridimensional editable. Me llamó la atención la manera en la cual trabaja la aplicación, se asemeja al procedimiento realizado por David Hockney en sus [joiners]. Para poder representar en tres dimensiones un espacio a partir de imágenes es imprescindible captar la mayor cantidad de tomas y ángulos posibles, que luego en base a los puntos ubicados, crea y compila en un modelo 3D.
-
-El espacio retratado en test_06 es una pequeña porción de mi patio, hice varios [escaneos] y modelos del mismo de diferentes maneras y en diferentes días. Luego todos esos modelos .obj los edite en un software de diseño 3D donde los uní para crear una composición. La intención de hacerlo interactivo y sobre todo online, viene de la mano de que cada persona puede explorar este espacio representado de diferentes maneras, ángulos y encontrar detalles que se repiten o errores de la malla.
-
-#### Devolución de Marcelo Terreni
-
-Genial esa idea de tomar una herramienta pensada para agilizar el modelado 3D a partir de representaciones bidimensionales y llevarla para otro lado. Las esculturas que podrían asociarse al cubismo analítico nunca pasaron de la figura y el objeto, por eso es interesante ver cómo se podía trasladar esa idea a la representación de un ambiente que ya de por sí incluye las dimensiones que se pretenden dislocar, un poco al modo de esa perspectiva un poco desarticulada que tiene el Museo Xul Solar. Realmente te quedó un conjunto muy interesante.
-
-Estaría bueno que sigas experimentado con los materiales, ya sea en ese terreno entre lo orgánico y lo sintético en que se mueven esas obras de Gabriel Rud que mencionaron en clase o por esferas más laterales que te permitan resignificar un poco el camino que llevás recorrido hasta acá (fijate las obras con telas de araña de Tomás Saraceno o la obra de este japonés http://www.spoon-tamago.com/2014/06/04/out-of-disorder-miniature-scenes-of-industrial-japan-sculpted-from-cloth-fibers-and-human-hair-by-takahiro-iwasaki/) 
 
 ____
 
