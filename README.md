@@ -152,11 +152,15 @@ _____
 ### [9 de junio]
 
 **[Idea nº5]**
+
 Crear un "sistema innatural" o "anatural" que subsista en base a datos de internet o datos reales del mundo. Por ejemplo sensores de temperatura, humedad. Tambien puede ser sensando Twitter o redes sociales con # específicos. Cualquier dato cuantificable.
+
 En base a esos datos, "la cyber criatura" actúa. 
-No tendrá una forma visual, será abstracto y la única visualización es a través de nodos en [Shiftr.io](shiftr.io/try)
+No tendrá una forma visual, será abstracto y la única visualización es a través de nodos en [Shiftr.io](shiftr.io/try).
+
 Puede existir 24/7 en una Raspberry Pi enviando y recibiendo datos por protocolo MQTT (posteos de datos en una nube).
 La idea de este sistema innatural es que pueda generar canales de datos y transformarlos para generar otras cosas, """vida""" propia.
+
 - El nivel de procesamiento y ejecución puede ser muy abstracto.
 - La única manera de conexión que tiene este sistema con el exterior es por medio de datos de internet.
 - ¿Puedo generar una programación paralela que pueda recolectar los datos de este sistema y "traducirlo" a un modelo 3D?
