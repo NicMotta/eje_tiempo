@@ -15,6 +15,12 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 [titulo_de_la_obra] consta de una sketch en Processing la cual toma [datos de internet de XXXXXX sensor / pixeles de imágenes generadas] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
 
+
+**[Sinopsis regalada de Giuliana]**
+¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización? ¿Cuál es su materia? ¿Es tangible o intangible?
+Es posible obtener datos numéricos (inmateriales) acerca de un objeto de estudio elegido. Materializarlo conllevaría trascender la idea de representación como actualmente la conocemos, ya que estos datos están en constante actualización/iteración, no son datos rígidos con un contenido preciso, sino que va cambiando.
+En [titulo_de_la_obra] se utilizan los datos de [objeto_de_estudio] como excusa para la conformación de un cuerpo digital cambiante que se hace presente y recorrible en el espacio real.
+
 ____________________________________________________________________________________________________________________________
 
 ### [13 de mayo]
