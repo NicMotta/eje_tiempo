@@ -147,6 +147,7 @@ ____
 ### [3 de junio]
 
 - ¿Me importa el objeto / entorno que voy a sensar para mi obra? ¿O solamente me interesa generar modelos 3D?
+
 _____
 
 ### [9 de junio]
