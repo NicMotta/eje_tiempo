@@ -16,6 +16,32 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 [titulo_de_la_obra] consta de una sketch en Processing la cual toma [datos de internet de XXXXXX sensor / pixeles de imágenes generadas] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
 
 ____________________________________________________________________________________________________________________________
+
+### [13 de mayo]
+
+**Palabras / Clara Cardinal**
+
+- Programar
+- 3D
+- Modular
+- Experimentar
+- Divertido
+- Recursión << Regalada
+
+_____
+
+### [19 de mayo]
+
+**Palabra / Clara Cardinal**
+
+**INTELIGENCIA ARTIFICIAL**
+- ¿Qué tan útil sos en el arte? ¿ Qué opina del arte? ¿Hay una poética?
+- Datos numéricos, tal vez físicos (impulsos electricos)
+- Hace operaciones matemáticas en base a datos de entrada y luego entra en una **caja negra** que no se sabe exactamente que proceso lleva a cabo. Uno como programador espera "ciertos" resultados.
+- Genera, analiza, discrimina, "aprende".
+
+_____
+
 ### [22 de mayo]
 
 ##### Trabajo práctico Lenguajes No Lineales / Marcelo Terreni
@@ -157,7 +183,7 @@ _____
 Crear un "sistema innatural" o "anatural" que subsista en base a datos de internet o datos reales del mundo. Por ejemplo sensores de temperatura, humedad. Tambien puede ser sensando Twitter o redes sociales con # específicos. Cualquier dato cuantificable.
 
 En base a esos datos, "la cyber criatura" actúa. 
-No tendrá una forma visual, será abstracto y la única visualización es a través de nodos en [Shiftr.io](shiftr.io/try).
+No tendrá una forma visual, será abstracto y la única visualización es a través de nodos en [Shiftr.io](https://shiftr.io/try).
 
 Puede existir 24/7 en una Raspberry Pi enviando y recibiendo datos por protocolo MQTT (posteos de datos en una nube).
 La idea de este sistema innatural es que pueda generar canales de datos y transformarlos para generar otras cosas, """vida""" propia.
