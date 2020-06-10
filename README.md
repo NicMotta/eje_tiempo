@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 ### [13 de mayo]
 
-**Palabras / Clara Cardinal**
+**Palabras**
 
 - Programar
 - 3D
@@ -39,7 +39,7 @@ _____
 
 ### [19 de mayo]
 
-**Palabra / Clara Cardinal**
+**Palabra**
 
 **INTELIGENCIA ARTIFICIAL**
 - ¿Qué tan útil sos en el arte? ¿ Qué opina del arte? ¿Hay una poética?
