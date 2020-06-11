@@ -22,6 +22,10 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 Es posible obtener datos numéricos (inmateriales) acerca de un objeto de estudio elegido. Materializarlo conllevaría trascender la idea de representación como actualmente la conocemos, ya que estos datos están en constante actualización/iteración, no son datos rígidos con un contenido preciso, sino que va cambiando.
 En [titulo_de_la_obra] se utilizan los datos de [objeto_de_estudio] como excusa para la conformación de un cuerpo digital cambiante que se hace presente y recorrible en el espacio real.
 
+
+**[Sinopsis regalada de Amawta]**
+
+El tiempo transcurre sin interrupción, a través de los sentidos podemos relacionarnos con nuestro entorno, sin embargo, la percepción es personal e intransferible (hasta ahora) y capta el espacio de forma sesgada, ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 ____________________________________________________________________________________________________________________________
 
 ### [13 de mayo]
