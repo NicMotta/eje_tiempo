@@ -4,30 +4,6 @@
 #### [Nic Motta](https://nicmotta.github.io)
 ___________________________________________________________________________________________________________________________
 
-
-### [Sinopsis] (en constante cambio)
-
-**[titulo_de_la_obra]**
-
-¿Dejan de ser indispensables la fuentes ópticas/visuales de información para dejar paso a las fuentes numéricas y de datos con el fin de lograr la representación espacial?
-
-Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio. Estos valores se modifican en tiempo real aceleradamente, por lo tanto no podrían ser representados con técnicas artísticas tradicionales, como el dibujo o la imagen temporalizada, es indispensable utilizar un medio que permita visualizar estos cambios constantes y acceder a manipularlos.
-
-[titulo_de_la_obra] consta de una sketch en Processing la cual toma [datos de internet de XXXXXX sensor / pixeles de imágenes generadas] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
-
-
-**[Sinopsis regalada de Giuliana]**
-
-¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización? ¿Cuál es su materia? ¿Es tangible o intangible?
-Es posible obtener datos numéricos (inmateriales) acerca de un objeto de estudio elegido. Materializarlo conllevaría trascender la idea de representación como actualmente la conocemos, ya que estos datos están en constante actualización/iteración, no son datos rígidos con un contenido preciso, sino que va cambiando.
-En [titulo_de_la_obra] se utilizan los datos de [objeto_de_estudio] como excusa para la conformación de un cuerpo digital cambiante que se hace presente y recorrible en el espacio real.
-
-
-**[Sinopsis regalada de Amawta]**
-
-El tiempo transcurre sin interrupción, a través de los sentidos podemos relacionarnos con nuestro entorno, sin embargo, la percepción es personal e intransferible (hasta ahora) y capta el espacio de forma sesgada, ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
-____________________________________________________________________________________________________________________________
-
 ### [13 de mayo]
 
 **Palabras**
@@ -209,3 +185,45 @@ La idea de este sistema innatural es que pueda generar canales de datos y transf
 
 **Abstracción** >> Conceptos >>> **ENDOFÍSICA >>> ENDOMUNDO**
 
+________
+
+### [10 de junio]
+
+### [Sinopsis versión 1.0] (en constante cambio)
+
+**[titulo_de_la_obra]**
+
+¿Dejan de ser indispensables la fuentes ópticas/visuales de información para dejar paso a las fuentes numéricas y de datos con el fin de lograr la representación espacial?
+
+Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio. Estos valores se modifican en tiempo real aceleradamente, por lo tanto no podrían ser representados con técnicas artísticas tradicionales, como el dibujo o la imagen temporalizada, es indispensable utilizar un medio que permita visualizar estos cambios constantes y acceder a manipularlos.
+
+[titulo_de_la_obra] consta de una sketch en Processing la cual toma [datos de internet de XXXXXX sensor / pixeles de imágenes generadas] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
+
+
+**[Sinopsis regalada de Giuliana]**
+
+¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización? ¿Cuál es su materia? ¿Es tangible o intangible?
+Es posible obtener datos numéricos (inmateriales) acerca de un objeto de estudio elegido. Materializarlo conllevaría trascender la idea de representación como actualmente la conocemos, ya que estos datos están en constante actualización/iteración, no son datos rígidos con un contenido preciso, sino que va cambiando.
+En [titulo_de_la_obra] se utilizan los datos de [objeto_de_estudio] como excusa para la conformación de un cuerpo digital cambiante que se hace presente y recorrible en el espacio real.
+
+
+**[Sinopsis regalada de Amawta]**
+
+El tiempo transcurre sin interrupción, a través de los sentidos podemos relacionarnos con nuestro entorno, sin embargo, la percepción es personal e intransferible (hasta ahora) y capta el espacio de forma sesgada, ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
+____________________________________________________________________________________________________________________________
+
+### [15 de junio]
+
+**[Sinopsis versión 2.0] (Agregadas visiones de Giuliana y Amawta)** 
+
+¿Dejan de ser indispensables la fuentes ópticas/visuales de información para dejar paso a las fuentes numéricas y de datos con el fin de lograr la representación espacial?
+
+Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio. Estos valores se modifican en tiempo real aceleradamente, por lo tanto no podrían ser representados con técnicas artísticas tradicionales, como el dibujo o la imagen temporalizada, es indispensable utilizar un medio que permita visualizar estos cambios constantes y acceder a manipularlos.
+
+[titulo_de_la_obra] consta de una sketch en Processing la cual toma [datos de internet de XXXXXX sensor / pixeles de imágenes generadas] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
+
+¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización? ¿Cuál es su materia? ¿Es tangible o intangible?
+Es posible obtener datos numéricos (inmateriales) acerca de un objeto de estudio elegido. Materializarlo conllevaría trascender la idea de representación como actualmente la conocemos, ya que estos datos están en constante actualización/iteración, no son datos rígidos con un contenido preciso, sino que va cambiando.
+En [titulo_de_la_obra] se utilizan los datos de [objeto_de_estudio] como excusa para la conformación de un cuerpo digital cambiante que se hace presente y recorrible en el espacio real.
+
+El tiempo transcurre sin interrupción, a través de los sentidos podemos relacionarnos con nuestro entorno, sin embargo, la percepción es personal e intransferible (hasta ahora) y capta el espacio de forma sesgada, ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
