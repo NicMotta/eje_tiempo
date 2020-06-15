@@ -227,10 +227,9 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 #### [Pensamientos]
 
-- Ir hacia la abstracción.
-
 **Datos >> Nube >> Sistema innatural >> Procesamiento >> Abstracción >> Nube >> Modelización**
 
+- Ir hacia la abstracción.
 - Relación con los Automatas Celulares (de la abstracción a patrones totalmente reconocibles a traves de estados pre-establecidos de activo / inactivo)
 - Pensar si los datos enviados (ejes X, Y, Z) son importantes, vienen de la aleatoriedad o de alguna fuente específica. Puedo probar con diferentes fuentes.
 - El sistema innatural se alimenta de los datos enviados a un servidor [la nube] y los transforma / procesa, para luego devolverlos nuevamente.
