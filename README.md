@@ -232,7 +232,8 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 **Datos >> Nube >> Sistema innatural >> Procesamiento >> Abstracción >> Nube >> Modelización**
 
 - Relación con los Automatas Celulares (de la abstracción a patrones totalmente reconocibles a traves de estados pre-establecidos de activo / inactivo)
-- Pensar si los datos enviados (ejes X, Y, Z) son importantes, si vienen de la aleatoriedad o de alguna fuente específica. Puedo probar con diferentes fuentes.
+- Pensar si los datos enviados (ejes X, Y, Z) son importantes, vienen de la aleatoriedad o de alguna fuente específica. Puedo probar con diferentes fuentes.
 - El sistema innatural se alimenta de los datos enviados a un servidor [la nube] y los transforma / procesa, para luego devolverlos nuevamente.
 - ¿De qué manera el sistema innatural procesa esos datos? ¿De qué manera interpreta esos datos?
-- Acaso esos datos enviados son producto de un sensado del espacio / habitat? ¿El sistema innatura interpreta ese espacio?
+- ¿Acaso esos datos enviados son producto de un sensado del espacio / habitat? ¿El sistema innatural interpreta ese espacio?
+- ¿Es importante la finalidad / ""producto"" de esta modelización o me importa el proceso y el manejo de datos?
