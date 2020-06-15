@@ -236,4 +236,3 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 - El sistema innatural se alimenta de los datos enviados a un servidor [la nube] y los transforma / procesa, para luego devolverlos nuevamente.
 - ¿De qué manera el sistema innatural procesa esos datos? ¿De qué manera interpreta esos datos?
 - Acaso esos datos enviados son producto de un sensado del espacio / habitat? ¿El sistema innatura interpreta ese espacio?
-- 
