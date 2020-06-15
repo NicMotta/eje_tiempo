@@ -224,3 +224,16 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
 [titulo_de_la_obra] consta de una programacion la cual toma [datos de internet de XXXXXX sensor] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
+
+##### [Pensamientos]
+
+- Ir hacia la abstracción.
+
+**Datos >> Nube >> Sistema innatural >> Procesamiento >> Abstracción >> Nube >> Modelización**
+
+- Relación con los Automatas Celulares (de la abstracción a patrones totalmente reconocibles a traves de estados pre-establecidos de activo / inactivo)
+- Pensar si los datos enviados (ejes X, Y, Z) son importantes, si vienen de la aleatoriedad o de alguna fuente específica. Puedo probar con diferentes fuentes.
+- El sistema innatural se alimenta de los datos enviados a un servidor [la nube] y los transforma / procesa, para luego devolverlos nuevamente.
+- ¿De qué manera el sistema innatural procesa esos datos? ¿De qué manera interpreta esos datos?
+- Acaso esos datos enviados son producto de un sensado del espacio / habitat? ¿El sistema innatura interpreta ese espacio?
+- 
