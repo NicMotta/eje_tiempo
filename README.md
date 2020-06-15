@@ -225,7 +225,7 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 [titulo_de_la_obra] consta de una programacion la cual toma [datos de internet de XXXXXX sensor] y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable que puede ser impresa.
 
-##### [Pensamientos]
+#### [Pensamientos]
 
 - Ir hacia la abstracción.
 
