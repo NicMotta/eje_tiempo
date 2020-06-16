@@ -258,14 +258,34 @@ _____
 
 #### Introducción al escrito / preguntas [Clara Cardinal]
 
--Título. **Todavia no tiene**
+##### Título. 
+Todavia no tiene**
 
--Descripción general. En qué mundo se inscribe. Más adelante deberán precisar en qué consiste de manera detallada cómo funciona/funcionará.
--¿Por qué te interesa trabajar con esto? (justificación).
--¿Qué querés probar?¿Qué te propones? (objetivos).
-- Pregunta/inquietud que se quiere poner a trabajar en este ejercicio.
--Conceptos que se ponen en juego.
--Referentes teóricos y artísticos.
-- Descripción técnica.
-- Imágenes/bocetos.
--Palabras clave.
+##### Descripción general. En qué mundo se inscribe. Más adelante deberán precisar en qué consiste de manera detallada cómo funciona/funcionará.
+
+
+##### ¿Por qué te interesa trabajar con esto? (justificación).
+
+
+##### ¿Qué querés probar?¿Qué te propones? (objetivos).
+
+
+##### Pregunta/inquietud que se quiere poner a trabajar en este ejercicio.
+
+
+##### Conceptos que se ponen en juego.
+
+
+##### Referentes teóricos y artísticos.
+
+
+##### Descripción técnica.
+
+
+##### Imágenes/bocetos.
+
+
+##### Palabras clave.
+
+
+_______
