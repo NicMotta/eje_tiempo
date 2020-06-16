@@ -3,7 +3,7 @@
 #### [Nic Motta](https://nicmotta.github.io)
 
 # Proceso / Bitácora
-- [13 de mayo - Palabras](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#13-de-mayo)
+- [[13 de mayo - Palabras]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#13-de-mayo)
 - [19 de mayo - Palabra / preguntas](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#19-de-mayo)
 - [22 de mayo - Trabajo y devolución Terreni / Lenguajes No Lineales](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#22-de-mayo)
 - [23 de mayo - Propuesta inicial](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#23-de-mayo)
@@ -11,8 +11,8 @@
 - [26 de mayo - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#26-de-mayo)
 - [28 de mayo - Niveles de pensamiento](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#28-de-mayo)
 - [30 de mayo - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#30-de-mayo)
-- [1 de junio - ](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#1-de-junio)
-- [3 de junio - ](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#3-de-junio)
+- [1 de junio - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#1-de-junio)
+- [3 de junio - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#3-de-junio)
 - [9 de junio - Idea nº5](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#9-de-junio)
 - [10 de junio - Sinopsis versión 1.0 + regalos](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#10-de-junio)
 - [15 de junio - Sinopsis versión 2.0 + pensamientos](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#15-de-junio)
