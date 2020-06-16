@@ -3,6 +3,7 @@
 #### [Nic Motta](https://nicmotta.github.io)
 
 # Proceso / Bitácora
+- [19 de mayo](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#19-de-mayo)
 
 ### [13 de mayo]
 
