@@ -4,19 +4,19 @@
 
 # Proceso / Bitácora
 - [[13 de mayo - Palabras]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#13-de-mayo)
-- [19 de mayo - Palabra / preguntas](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#19-de-mayo)
-- [22 de mayo - Trabajo y devolución Terreni / Lenguajes No Lineales](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#22-de-mayo)
-- [23 de mayo - Propuesta inicial](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#23-de-mayo)
-- [24 de mayo - Primeras pruebas](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#24-de-mayo)
-- [26 de mayo - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#26-de-mayo)
-- [28 de mayo - Niveles de pensamiento](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#28-de-mayo)
-- [30 de mayo - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#30-de-mayo)
-- [1 de junio - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#1-de-junio)
-- [3 de junio - ?](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#3-de-junio)
-- [9 de junio - Idea nº5](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#9-de-junio)
-- [10 de junio - Sinopsis versión 1.0 + regalos](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#10-de-junio)
-- [15 de junio - Sinopsis versión 2.0 + pensamientos](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#15-de-junio)
-- [16 de junio - Introducción a escrito](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#16-de-junio)
+- [[19 de mayo - Palabra / preguntas]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#19-de-mayo)
+- [[22 de mayo - Trabajo y devolución Terreni / Lenguajes No Lineales]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#22-de-mayo)
+- [[23 de mayo - Propuesta inicial]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#23-de-mayo)
+- [[24 de mayo - Primeras pruebas]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#24-de-mayo)
+- [[26 de mayo - ?]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#26-de-mayo)
+- [[28 de mayo - Niveles de pensamiento]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#28-de-mayo)
+- [[30 de mayo - ?]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#30-de-mayo)
+- [[1 de junio - ?]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#1-de-junio)
+- [[3 de junio - ?]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#3-de-junio)
+- [[9 de junio - Idea nº5]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#9-de-junio)
+- [[10 de junio - Sinopsis versión 1.0 + regalos]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#10-de-junio)
+- [[15 de junio - Sinopsis versión 2.0 + pensamientos]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#15-de-junio)
+- [[16 de junio - Introducción a escrito]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#16-de-junio)
 
 
 ### [13 de mayo]
@@ -251,3 +251,21 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 - ¿De qué manera el sistema innatural procesa esos datos? ¿De qué manera interpreta esos datos?
 - ¿Acaso esos datos enviados son producto de un sensado del espacio / habitat? ¿El sistema innatural interpreta ese espacio?
 - ¿Es importante la finalidad / ""producto"" de esta modelización o me importa el proceso y el manejo de datos?
+
+_____
+
+### [16 de junio]
+
+#### Introducción al escrito / preguntas [Clara Cardinal]
+
+-Título. **Todavia no tiene**
+
+-Descripción general. En qué mundo se inscribe. Más adelante deberán precisar en qué consiste de manera detallada cómo funciona/funcionará.
+-¿Por qué te interesa trabajar con esto? (justificación).
+-¿Qué querés probar?¿Qué te propones? (objetivos).
+- Pregunta/inquietud que se quiere poner a trabajar en este ejercicio.
+-Conceptos que se ponen en juego.
+-Referentes teóricos y artísticos.
+- Descripción técnica.
+- Imágenes/bocetos.
+-Palabras clave.
