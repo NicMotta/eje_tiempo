@@ -201,7 +201,8 @@ La idea de este sistema innatural es que pueda generar canales de datos y transf
 **Abstracción** >> Conceptos >>> **ENDOFÍSICA >>> ENDOMUNDO**
 
 
-**GRAFICO SHIFTR.IO RECIBIENDO Y ENVIANDO DATOS A LA NUBE**
+- - - -
+**Gráfico de Shiftr.io enviando y recibiendo datos a la nube**
 
 ![](/proceso/shiftr.io.gif)
 
