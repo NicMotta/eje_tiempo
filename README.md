@@ -196,7 +196,7 @@ La idea de este sistema innatural es que pueda generar canales de datos y transf
 - El sistema solo puede ser leido pero no intervenido ni modificado.
 - ¿Puedo guardar el progreso? ¿O si no tiene "alimento" el sistema no prospera y queda inactivo?
 - El sistema no tiene vida, solo puede estar activo, en funcionamiento ó inactivo.
-[x]**La programación en Processing / MQTT** FUNCIONANDO
+- **La programación en Processing / MQTT** FUNCIONANDO
 
 **Abstracción** >> Conceptos >>> **ENDOFÍSICA >>> ENDOMUNDO**
 
