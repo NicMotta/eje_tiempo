@@ -262,7 +262,7 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 **Programación y testeo en Rhinoceros / Grasshopper para la generación de modelos 3D a partir de otros modelos / puntos**
 
-![](modelizacion_rhino_1.gif)
+![](/proceso/modelizacion_rhino_1.gif)
 _____
 
 ### [16 de junio]
