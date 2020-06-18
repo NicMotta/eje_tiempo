@@ -271,10 +271,8 @@ _____
 
 **Título.** 
 
-Todavia no tiene
 
 **Descripción general. En qué mundo se inscribe. Más adelante deberán precisar en qué consiste de manera detallada cómo funciona/funcionará.**
-
 
 
 **¿Por qué te interesa trabajar con esto? (justificación).**
@@ -282,24 +280,19 @@ Todavia no tiene
 
 **¿Qué querés probar?¿Qué te propones? (objetivos).**
 
-Quiero 
 
 **Pregunta/inquietud que se quiere poner a trabajar en este ejercicio.**
 
 
-
 **Conceptos que se ponen en juego.**
-
 
 
 **Referentes teóricos y artísticos.**
 
 - Tomás Saraceno
 - Ryoji Ikeda
-- El que modeliza el sonido de los glaciares
 
 **Descripción técnica.**
-
 
 
 **Imágenes/bocetos.**
