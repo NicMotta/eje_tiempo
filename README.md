@@ -289,10 +289,23 @@ En este proyecto no estoy utilizando [por ahora] software de inteligencia artifi
 Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para el análisis y manipulación de esos archivos .csv, en ellos proceso por acumulación de puntos y reduzco la cantidad de datos a menos de 20 para crear vinculaciones entre ellos y posteriormente una malla. De esta manera puedo generar un modelo 3D a partir de todos los modelos creados ó bien un modelo individual para cada ciclo de sistema.
 
 
-### [Posible nombre:] 
+### [Posible nombre] 
 
 **Sistema_innatural_1** >> continúa "Sistemas en expansión" trabajado anteriormente.
 
+### [Referentes artísticos]
+
+**Tomás Saraceno** >> 
+- [*Cómo atrapar el universo en una tela de araña* - 2017](https://studiotomassaraceno.org/how-to-entangle-the-universe-in-a-spider-web/)
+- [*Algo-r(h)i(y)thms* - 2018](https://studiotomassaraceno.org/algo-rhiythms/)
+- [*Hybrid Webs* - 2018](https://studiotomassaraceno.org/hybrid-webs/)
+
+**Wim Jenssen** >> 
+- [*Mountain* - 2009](http://www.wimjanssen.be/2018/04/15/mountain/)
+- [*Rid* - 2009](http://www.wimjanssen.be/2018/04/15/rid/)
+
+**Andreas Lutz** >>
+- [*Offset XYZ* - 2018](http://andreaslutz.com/offset-xyz/)
 
 _______
 
