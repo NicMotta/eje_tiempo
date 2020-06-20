@@ -280,11 +280,13 @@ Hasta el día de la fecha tengo un sistema no natural [innatural], el cual basan
 - ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
 - ¿Existe un punto de encuentro entre ambos mundos?
 
-Por otro lado tenemos un script capaz de visualizar los puntos que estan siendo creados en tiempo real y enviados a través de internet. Cualquier persona que tenga este programa puede ver el modelo que se esté generando en ese momento. Del mismo modo, recibe la señal para que cada 24hs se reinicie y guarde en un archivo .csv el modelo de ese día.
+Por otro lado desarrollé un script capaz de visualizar los puntos que estan siendo creados en tiempo real y enviados a través de internet. Cualquier persona que tenga este programa puede ver el modelo que se esté generando en ese momento. Del mismo modo, recibe la señal para que cada 24hs se reinicie y guarde en un archivo .csv el modelo de ese día.
 
 - ¿Tiene sentido que genere un modelo cada 24hs? ¿El tiempo en horas / minutos / segundos influye sobre el modelo?
 
-En este proyecto no estoy utilizando [por ahora] software de inteligencia artificial, no descarto hacerlo en un futuro.
+En este proyecto no estoy utilizando [por ahora] software de inteligencia artificial, no descarto hacerlo en un futuro si me parece necesario su implementación.
+
+Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para el análisis y manipulación de esos archivos .csv, en ellos proceso por acumulación de puntos y reduzco la cantidad de datos a menos de 20 para crear vinculaciones entre ellos y posteriormente una malla. De esta manera puedo generar un modelo 3D a partir de todos los modelos creados ó bien un modelo individual para cada ciclo de sistema.
 
 
 _______
@@ -293,8 +295,13 @@ _______
 
 **Puesta en marcha de una versión beta 1.0 del Sistema Innatural**
 
+![](/proceso/sistema_innatural_beta_1.gif)
+
+
+**Análisis y modelizacion de los modelos creados por el Sistema**
+
 ![](/proceso/modelizacion_beta_1.gif)
 
-![](/proceso/sistema_innatural_beta_1.gif)
+
 
 _______
