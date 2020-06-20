@@ -20,6 +20,7 @@
 - [[18 de junio - Decisiones tomadas hasta el momento]](https://nicmotta.github.io/eje_tiempo/#18-de-junio)
 - [[20 de junio - Puesta en marcha del sistema beta v.1.0]](https://nicmotta.github.io/eje_tiempo/#20-de-junio)
 
+___________
 
 ### [13 de mayo]
 
@@ -287,6 +288,8 @@ Por otro lado desarrollé un script capaz de visualizar los puntos que estan sie
 En este proyecto no estoy utilizando [por ahora] software de inteligencia artificial, no descarto hacerlo en un futuro si me parece necesario su implementación.
 
 Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para el análisis y manipulación de esos archivos .csv, en ellos proceso por acumulación de puntos y reduzco la cantidad de datos a menos de 20 para crear vinculaciones entre ellos y posteriormente una malla. De esta manera puedo generar un modelo 3D a partir de todos los modelos creados ó bien un modelo individual para cada ciclo de sistema.
+
+**Posible nombre: Sistema_innatural_1** >> continúa "Sistemas en expansión" trabajados anteriormente.
 
 
 _______
