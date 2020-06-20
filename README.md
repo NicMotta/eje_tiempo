@@ -16,7 +16,6 @@
 - [[9 de junio - Idea nº5]](https://nicmotta.github.io/eje_tiempo/#9-de-junio)
 - [[10 de junio - Sinopsis versión 1.0 + regalos]](https://nicmotta.github.io/eje_tiempo/#10de-junio)
 - [[15 de junio - Sinopsis versión 2.0 + pensamientos]](https://nicmotta.github.io/eje_tiempo/#15-de-junio)
-- [[16 de junio - Introducción a escrito]](https://nicmotta.github.io/eje_tiempo/#16-de-junio)
 - [[18 de junio - Decisiones tomadas hasta el momento]](https://nicmotta.github.io/eje_tiempo/#18-de-junio)
 - [[20 de junio - Puesta en marcha del sistema beta v.1.0]](https://nicmotta.github.io/eje_tiempo/#20-de-junio)
 
