@@ -17,6 +17,8 @@
 - [[10 de junio - Sinopsis versión 1.0 + regalos]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#10-de-junio)
 - [[15 de junio - Sinopsis versión 2.0 + pensamientos]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#15-de-junio)
 - [[16 de junio - Introducción a escrito]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#16-de-junio)
+- [[18 de junio - Decisiones tomadas hasta el momento]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#18-de-junio)
+- [[20 de junio - Puesta en marcha del sistema beta v.1.0]](https://github.com/NicMotta/eje_tiempo/blob/master/README.md#20-de-junio)
 
 
 ### [13 de mayo]
