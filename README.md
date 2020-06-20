@@ -265,41 +265,19 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 ![](/proceso/modelizacion_rhino_1.gif)
 _____
 
-### [16 de junio]
+### [18 de junio]
 
-#### Introducción al escrito / preguntas [Clara Cardinal]
-
-**Título.** 
+**Avances del proyecto / pensamientos**
 
 
-**Descripción general. En qué mundo se inscribe. Más adelante deberán precisar en qué consiste de manera detallada cómo funciona/funcionará.**
+_______
 
+### [20 de junio]
 
-**¿Por qué te interesa trabajar con esto? (justificación).**
+**Puesta en marcha de una version beta 1.0 del Sistema Innatural**
 
+![](/proceso/modelizacion_beta_1.gif)
 
-**¿Qué querés probar?¿Qué te propones? (objetivos).**
-
-
-**Pregunta/inquietud que se quiere poner a trabajar en este ejercicio.**
-
-
-**Conceptos que se ponen en juego.**
-
-
-**Referentes teóricos y artísticos.**
-
-- Tomás Saraceno
-- Ryoji Ikeda
-
-**Descripción técnica.**
-
-
-**Imágenes/bocetos.**
-
-
-
-**Palabras clave.**
-
+![](/proceso/sistema_innatural_beta_1.gif)
 
 _______
