@@ -296,7 +296,7 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 ### [Referentes artísticos]
 
 **Tomás Saraceno** >> 
-- [*Cómo atrapar el universo en una tela de araña* - 2017](https://studiotomassaraceno.org/how-to-entangle-the-universe-in-a-spider-web/)
+- [*How to Entangle the Universe in a Spider Web* - 2017](https://studiotomassaraceno.org/how-to-entangle-the-universe-in-a-spider-web/)
 - [*Algo-r(h)i(y)thms* - 2018](https://studiotomassaraceno.org/algo-rhiythms/)
 - [*Hybrid Webs* - 2018](https://studiotomassaraceno.org/hybrid-webs/)
 
