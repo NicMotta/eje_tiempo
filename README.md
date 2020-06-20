@@ -269,12 +269,27 @@ _____
 
 **Avances del proyecto / pensamientos**
 
+**Decisiones tomadas hasta el momento [e ideas que quedaron en el tintero]**
+
+Hasta el día de la fecha tengo un sistema no natural [innatural], el cual basandose tanto en [valores randoms] y su procesamiento genera valores en los ejes X, Y, Z y los publica en un servidor [MQTT / nube], dicho sistema nos muestra información tanto de su crecimiento / expansión, los datos enviados, como también distancia entre esos puntos. La idea es que el [Sistema Inntural] funcione constantemente durante días en una Raspberry PI conectada a internet, durante 24hs genera puntos siguendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese tiempo el sistema guarda todas esas coordenadas en un archivo .csv y reinicia el sistema. *En este punto me gustaría pensar si el reincio implica la perdida total de los puntos y valores creados ó en cambio toma algo de allí para incorporarlo al nuevo ciclo de generación*
+
+- ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
+- ¿Podría existir datos externos que el sistema pueda tomar? 
+- ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
+- ¿Existe un punto de encuentro entre ambos mundos?
+
+Por otro lado tenemos un script capaz de visualizar los puntos que estan siendo creados en tiempo real y enviados a través de internet. Cualquier persona que tenga este programa puede ver el modelo que se esté generando en ese momento. Del mismo modo, recibe la señal para que cada 24hs se reinicie y guarde en un archivo .csv el modelo de ese día.
+
+- ¿Tiene sentido que genere un modelo cada 24hs? ¿El tiempo en horas / minutos / segundos influye sobre el modelo?
+
+En este proyecto no estoy utilizando [por ahora] software de inteligencia artificial, no descarto hacerlo en un futuro.
+
 
 _______
 
 ### [20 de junio]
 
-**Puesta en marcha de una version beta 1.0 del Sistema Innatural**
+**Puesta en marcha de una versión beta 1.0 del Sistema Innatural**
 
 ![](/proceso/modelizacion_beta_1.gif)
 
