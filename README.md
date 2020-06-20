@@ -292,7 +292,7 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 
 ### [Posible nombre:] 
 
-**Sistema_innatural_1** >> continúa "Sistemas en expansión" trabajados anteriormente.
+**Sistema_innatural_1** >> continúa "Sistemas en expansión" trabajado anteriormente.
 
 
 _______
