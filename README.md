@@ -62,7 +62,7 @@ El espacio retratado en test_06 es una pequeña porción de mi patio, hice vario
 
 Genial esa idea de tomar una herramienta pensada para agilizar el modelado 3D a partir de representaciones bidimensionales y llevarla para otro lado. Las esculturas que podrían asociarse al cubismo analítico nunca pasaron de la figura y el objeto, por eso es interesante ver cómo se podía trasladar esa idea a la representación de un ambiente que ya de por sí incluye las dimensiones que se pretenden dislocar, un poco al modo de esa perspectiva un poco desarticulada que tiene el Museo Xul Solar. Realmente te quedó un conjunto muy interesante.
 
-Estaría bueno que sigas experimentado con los materiales, ya sea en ese terreno entre lo orgánico y lo sintético en que se mueven esas obras de Gabriel Rud que mencionaron en clase o por esferas más laterales que te permitan resignificar un poco el camino que llevás recorrido hasta acá (fijate las obras con telas de araña de Tomás Saraceno o la obra de este japonés http://www.spoon-tamago.com/2014/06/04/out-of-disorder-miniature-scenes-of-industrial-japan-sculpted-from-cloth-fibers-and-human-hair-by-takahiro-iwasaki/) 
+Estaría bueno que sigas experimentado con los materiales, ya sea en ese terreno entre lo orgánico y lo sintético en que se mueven esas obras de Gabriel Rud que mencionaron en clase o por esferas más laterales que te permitan resignificar un poco el camino que llevás recorrido hasta acá (fijate las obras con telas de araña de Tomás Saraceno o la obra de este japonés http://www.spoon-tamago.com/2014/06/04/out-of-disorder-miniature-scenes-of-industrial-japan-sculpted-from-cloth-fibers-and-human-hair-by-takahiro-iwasaki/)
 
 ____
 
@@ -72,7 +72,7 @@ ____
  - Desarrollar una IA de estilo GAN que pueda generar imágenes en base a un dataset específico.
  - A partir de esas imágenes, transladar los valores RGB de cada pixel en puntos XYZ.
  - Una vez obtenido la nube de puntos, generar un modelo 3D.
- 
+
 #### Objetivo a futuro:
 Desarrollar una IA que sea capaz de generar modelos 3D a partir de otros modelos de espacios sensados.
 
@@ -145,13 +145,13 @@ Estructuras kinéticas que responden a cierto patrón para su generación. >> Fo
 - Relacionado con obras anteriores.
 
  [Obra anterior 1 / input_animalia](https://nicmotta.github.io/input_animalia/)
- 
- [Obra anterior 2 / data_mesh](https://nicmotta.github.io/data_mesh/)
- 
- [Obra anterior 3 / data_point](https://nicmotta.github.io/data_point/)
- 
 
- 
+ [Obra anterior 2 / data_mesh](https://nicmotta.github.io/data_mesh/)
+
+ [Obra anterior 3 / data_point](https://nicmotta.github.io/data_point/)
+
+
+
 #### Pensamiento [nivel de profundidad: 3]
 Sensar con Apps que transforma a 3D un espacio determinado y a partir de ese archivo generar algo que:
 **Mimetice o rompa** con el lugar / entorno.
@@ -187,7 +187,7 @@ _____
 
 Crear un "sistema innatural" o "anatural" que subsista en base a datos de internet o datos reales del mundo. Por ejemplo sensores de temperatura, humedad. Tambien puede ser sensando Twitter o redes sociales con # específicos. Cualquier dato cuantificable.
 
-En base a esos datos, "la cyber criatura" actúa. 
+En base a esos datos, "la cyber criatura" actúa.
 No tendrá una forma visual, será abstracto y la única visualización es a través de nodos en [Shiftr.io](https://shiftr.io/try).
 
 Puede existir 24/7 en una Raspberry Pi enviando y recibiendo datos por protocolo MQTT (posteos de datos en una nube).
@@ -239,11 +239,11 @@ _________________________
 
 ### [15 de junio]
 
-**[Sinopsis versión 2.0] (Agregadas visiones de Giuliana y Amawta)** 
+**[Sinopsis versión 2.0] (Agregadas visiones de Giuliana y Amawta)**
 
 ¿Dejan de ser indispensables la fuentes ópticas/visuales de información para dejar paso a las fuentes numéricas y de datos con el fin de lograr la representación espacial?
 
-¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización? 
+¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización?
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio. Estos valores se modifican en tiempo real aceleradamente, por lo tanto no podrían ser representados con técnicas artísticas tradicionales, como el dibujo o la imagen temporalizada, es indispensable utilizar un medio que permita visualizar estos cambios constantes y acceder a manipularlos.
 
 ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
@@ -262,7 +262,7 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 - ¿Acaso esos datos enviados son producto de un sensado del espacio / habitat? ¿El sistema innatural interpreta ese espacio?
 - ¿Es importante la finalidad / ""producto"" de esta modelización o me importa el proceso y el manejo de datos?
 
-- - - - 
+- - - -
 
 **Programación y testeo en Rhinoceros / Grasshopper para la generación de modelos 3D a partir de otros modelos / puntos**
 
@@ -278,7 +278,7 @@ _____
 Hasta el día de la fecha tengo un sistema no natural [innatural], el cual basándose tanto en [valores randoms] y su procesamiento genera valores en los ejes X, Y, Z y los publica en un servidor [MQTT / nube], dicho sistema nos muestra información tanto de su crecimiento / expansión, los datos enviados, como también distancia entre esos puntos. La idea es que el [Sistema Inntural] funcione constantemente durante días en una Raspberry PI conectada a internet, durante 24hs genera puntos siguendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese tiempo el sistema guarda todas esas coordenadas en un archivo .csv y reinicia el sistema. *En este punto me gustaría pensar si el reincio implica la perdida total de los puntos y valores creados ó en cambio toma algo de allí para incorporarlo al nuevo ciclo de generación*
 
 - ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
-- ¿Podría existir datos externos que el sistema pueda tomar? 
+- ¿Podría existir datos externos que el sistema pueda tomar?
 - ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
 - ¿Existe un punto de encuentro entre ambos mundos?
 
@@ -291,18 +291,18 @@ En este proyecto no estoy utilizando [por ahora] software de inteligencia artifi
 Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para el análisis y manipulación de esos archivos .csv, en ellos proceso por acumulación de puntos y reduzco la cantidad de datos a menos de 20 para crear vinculaciones entre ellos y posteriormente una malla. De esta manera puedo generar un modelo 3D a partir de todos los modelos creados ó bien un modelo individual para cada ciclo de sistema.
 
 
-### [Posible nombre] 
+### [Posible nombre]
 
 **Sistema_innatural_1** >> continúa "Sistemas en expansión" trabajado anteriormente.
 
 ### [Referentes artísticos]
 
-**Tomás Saraceno** >> 
+**Tomás Saraceno** >>
 - [*How to Entangle the Universe in a Spider Web* - 2017](https://studiotomassaraceno.org/how-to-entangle-the-universe-in-a-spider-web/)
 - [*Algo-r(h)i(y)thms* - 2018](https://studiotomassaraceno.org/algo-rhiythms/)
 - [*Hybrid Webs* - 2018](https://studiotomassaraceno.org/hybrid-webs/)
 
-**Wim Jenssen** >> 
+**Wim Jenssen** >>
 - [*Mountain* - 2009](http://www.wimjanssen.be/2018/04/15/mountain/)
 - [*Rid* - 2009](http://www.wimjanssen.be/2018/04/15/rid/)
 
@@ -321,6 +321,10 @@ _______
 **Análisis y modelizacion de los modelos creados por el Sistema**
 
 ![](/proceso/modelizacion_beta_1.gif)
+
+**Gráfico de la idea [y funcionamiento] actual**
+
+![](/proceso/grafico_3.jpg)
 
 
 
