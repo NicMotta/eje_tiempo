@@ -15,7 +15,14 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
-En este trabajo pongo en debate la relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural, vengo trabajando en un proyecto paralelo donde nos concentramos en medir y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en un jardin. A partir de este sensado, generamos un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar ... [] continuar
+En este trabajo pongo en debate la relación [visual / formal / morfológica] entre modelos de procedencia digital y otros natural, vengo trabajando en un proyecto paralelo donde nos concentramos en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en un jardin. A partir de este sensado, generamos un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos, me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?
+
+Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
+El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
+
+
+[...] continuar
+
 
 ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
 ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
