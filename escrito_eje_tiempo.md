@@ -24,9 +24,11 @@ El concepto de [seed] en el lenguaje digital vinculado con lo random en este tra
 [...] continuar
 
 
-¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
-¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
-¿Existe un punto de encuentro entre ambos mundos?
+Preguntas para pensar:
+
+- ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
+- ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
+- ¿Existe un punto de encuentro entre ambos mundos?
 
 
 *[sistema_innatural_1]* consta de una programación la cual toma genera datos aleatorios pero regidos por un patrón de crecimiento y ubica puntos XYZ en el plano 3D, luego genera una malla digital manipulable.
