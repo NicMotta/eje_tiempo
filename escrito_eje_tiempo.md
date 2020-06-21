@@ -16,6 +16,7 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
 En este trabajo pongo en diálogo dos conceptos:
+- 1 
 
 ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
 ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
