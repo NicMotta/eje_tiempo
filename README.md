@@ -233,7 +233,8 @@ En [titulo_de_la_obra] se utilizan los datos de [objeto_de_estudio] como excusa 
 **[Sinopsis regalada de Amawta]**
 
 El tiempo transcurre sin interrupción, a través de los sentidos podemos relacionarnos con nuestro entorno, sin embargo, la percepción es personal e intransferible (hasta ahora) y capta el espacio de forma sesgada, ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
-____________________________________________________________________________________________________________________________
+
+_________________________
 
 ### [15 de junio]
 
