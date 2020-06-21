@@ -324,7 +324,7 @@ _______
 
 **Gráfico de la idea [y funcionamiento] actual**
 
-![](/proceso/grafico_3.jpg)
+![](/proceso/grafico_3.JPG)
 
 
 
