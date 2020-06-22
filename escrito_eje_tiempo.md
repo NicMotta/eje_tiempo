@@ -9,14 +9,12 @@
 *¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales vivos]?*
 
 
-¿Se puede representar algo materializable a través de datos? ¿Cuál es la forma de esta materialización?
 
+`//Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio. Estos valores se modifican en tiempo real aceleradamente, por lo tanto no podrían ser representados con técnicas artísticas tradicionales, como el dibujo o la imagen temporalizada. Por lo tanto es indispensable utilizar un medio que permita visualizar estos cambios constantes y acceder a manipularlos.//`
 
-`Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio. Estos valores se modifican en tiempo real aceleradamente, por lo tanto no podrían ser representados con técnicas artísticas tradicionales, como el dibujo o la imagen temporalizada. Por lo tanto es indispensable utilizar un medio que permita visualizar estos cambios constantes y acceder a manipularlos.`
+¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
-¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos?. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
-
-En este trabajo pongo en debate la relación [visual / formal / morfológica] entre modelos de procedencia digital y otros natural, vengo trabajando en un proyecto paralelo donde nos concentramos en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en un jardin. A partir de este sensado, generamos un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos, me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?
+En este trabajo pongo en debate la relación [visual / formal / morfológica] entre modelos de procedencia digital / [numérica] y otros natural, continuando la investigación en un proyecto paralelo donde nos concentramos en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en un jardin. A partir de este sensado, generamos un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos, me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?
 
 Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
 El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
@@ -28,8 +26,9 @@ El concepto de [seed] en el lenguaje digital vinculado con lo random en este tra
 **Preguntas para pensar:**
 
 - ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
-- ¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital y uno natural?
 - ¿Existe un punto de encuentro entre ambos mundos?
+- ¿Se puede representar algo materializable a través de datos?
+- ¿Cuál es la forma de esta materialización?
 
 
 **[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios pero regidos por un patrón de crecimiento, ubica puntos XYZ en el plano 3D y luego esos puntos son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
