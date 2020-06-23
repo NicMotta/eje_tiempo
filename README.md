@@ -326,6 +326,26 @@ _______
 
 ![](/proceso/grafico_3.JPG)
 
+-----
+
+### [22 de junio]
+
+### [Sinopsis v3.0]
+
+**Sistema_innatural_1**
+
+
+*¿Existe una relación [visual / formal / morfológica] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
+
+
+¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
+
+En este trabajo pongo en debate la (¿posible?) relación [visual / formal / morfológica] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
+A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observacion me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?
+
+Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
+
+**[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios pero regidos por un patrón de crecimiento, ubica puntos XYZ en el plano 3D y luego esos puntos son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
 
 
 _______
