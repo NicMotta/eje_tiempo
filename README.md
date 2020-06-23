@@ -340,10 +340,10 @@ _______
 
 
 
-En este trabajo pongo en debate la (¿posible?) relación [visual / formal / morfológica] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
-A través de la generación, observación y comparación de dichos modelos tridimensionales me planteo la posible existencia de un punto de encuentro entre lo obtenido digitalmente / numéricamente y proveniente de la naturaleza.
+Este trabajo pone en debate la (¿posible?) relación [visual / formal / morfológica] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
+A través de la generación, observación y comparación de dichos modelos tridimensionales plantea la posible existencia de un punto de encuentro entre lo obtenido digitalmente / numéricamente y proveniente de la naturaleza.
 
-Al mismo tiempo rescato la idea de [semilla / seed] como la parte fundamental y detonante de crecimiento, como si de una fuente de información se tratara.
+Al mismo tiempo rescata la idea de [semilla / seed] como la parte fundamental y detonante de crecimiento, como si de una fuente de información se tratara.
 
 Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
