@@ -19,6 +19,7 @@
 - [[15 de junio - Sinopsis versión 2.0 + pensamientos]](https://nicmotta.github.io/eje_tiempo/#15-de-junio)
 - [[18 de junio - Decisiones tomadas hasta el momento]](https://nicmotta.github.io/eje_tiempo/#18-de-junio)
 - [[20 de junio - Puesta en marcha del sistema beta v.1.0]](https://nicmotta.github.io/eje_tiempo/#20-de-junio)
+- [[22 de junio - Sinopsis versión 3.0]](https://nicmotta.github.io/eje_tiempo/#22-de-junio)
 
 ___________
 
