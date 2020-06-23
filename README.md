@@ -345,9 +345,7 @@ A través de la generación, observación y comparación de dichos modelos tridi
 
 ¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
-Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
-
-**[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios pero regidos por un patrón de crecimiento, ubica puntos XYZ en el plano 3D y luego esos puntos son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
+Al mismo tiempo rescato la idea de [semilla / seed] como la parte fundamental y detonante de crecimiento, como si de una fuente de información se tratara.
 
 
 _______

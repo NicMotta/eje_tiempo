@@ -34,7 +34,7 @@ El concepto de [seed] en el lenguaje digital vinculado con lo random en este tra
 - ¿Cuál es la forma de esta materialización?
 
 
-**[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios pero regidos por un patrón de crecimiento, ubica puntos XYZ en el plano 3D y luego esos puntos son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
+**[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios regidos por un patrón de crecimiento, ubica puntos en el plano 3D y que luego son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
 
 Un sistema no natural [innatural], el cual basándose tanto en [valores randoms] y su procesamiento genera los ejes X, Y, Z y los publica en un servidor [MQTT / nube], dicho sistema nos muestra información de su crecimiento / expansión, los datos enviados, como también la distancia entre esos puntos.
 La idea es que el [Sistema Innatural] funcione constantemente durante días en una Raspberry PI conectada a internet, durante 24 hs generará puntos siguiendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese tiempo el sistema guarda todas esas coordenadas en un archivo .csv y reinicia el sistema dejando ciertos valores o parámetros del modelo anterior los cuales se van a sumar / integrar al nuevo modelo por generar, de esta manera existe una pseudo mutación o feedback de donde comenzar a construir y contribuyendo a un patrón de crecimiento.
