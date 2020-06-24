@@ -331,7 +331,7 @@ _______
 
 ### [22 de junio]
 
-### [Sinopsis v3.0]
+### [Sinopsis v3.0] >> en constante cambio
 
 **Sistema_innatural_1**
 
@@ -352,6 +352,12 @@ _______
 
 
 ### [24 de junio]
+
+**Morfogénesis**
+
+    1. Parte de la geomorfología que estudia el origen y la evolución de la forma del relieve.
+    2. En genética, producción y evolución de los caracteres morfológicos.
+    3. Es el proceso biológico que lleva a que un organismo desarrolle su forma. Es una de las tres ramas de estudio centrales de la Biología del Desarrollo, junto al Crecimiento celular y la Diferenciación celular. 
 
 - ¿Existe una relación morfológica o *morfogenética* entre modelos de procedencia digital / [numérica] y uno natural / [sistemas naturales]?
 - ¿Quiero poner en duda la veracidad de los datos naturales?
