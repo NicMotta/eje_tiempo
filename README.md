@@ -348,6 +348,14 @@ Al mismo tiempo rescata la idea de [semilla / seed] como la parte fundamental y 
 Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
 
-
-
 _______
+
+
+### [24 de junio]
+
+- ¿Existe una relación morfológica o *morfogenética* entre modelos de procedencia digital / [numérica] y uno natural / [sistemas naturales]?
+- ¿Quiero poner en duda la veracidad de los datos naturales?
+-
+
+
+**Morfogenética >>> Arlindo Machado** - *El paisaje mediático*
