@@ -8,12 +8,20 @@
 
 *¿Existe una relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
-Que relaciones van a detonar modelos, cuanto se va a poner en duda la realidd que se percibe, hasta que punto vamos a confundir las formas, como podemos convivir con un universo digital y uno natural en simultaneo en el espacio fisico.
-generar paisajes tanto digitales como fisicos en los que los modelos de procedencia natural y digital se mezclen, se confundan, se pongan en jaque.
-No tengo que demostrar nada, ¿que tanto importan los datos?
+- ¿Qué relaciones van a detonar modelos?
+- ¿Cuanto se va a poner en duda la realidad que se percibe?
+- ¿Hasta que punto vamos a confundir las formas?
+- ¿Cómo podemos convivir con un universo digital y uno natural en simultaneo en el espacio fisico.?
+
+
+Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclen, se confundan, se pongan en jaque.
+
+No tengo que demostrar nada, ¿Qué tanto importan los datos?
+
 Modo de pensar entre lo simulado y lo real.
-Simulacion critica de las realidades
-operacion que realiza
+
+Simulación critica de las realidades, operación que realiza.
+
 video >> pone en dialogo universo lo real y lo virtual , confluencia presenta la simulacion de vida a traves de los medio de comunicacion en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad liquida que vemos es resultado de yuxtaponer en crisis la relidad de los humanos y la virtualizcion del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas
 
 Porque decidir entre la abstraccion y espacio real, si los puedo mezclar virtualmente.
