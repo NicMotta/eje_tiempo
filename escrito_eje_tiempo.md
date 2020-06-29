@@ -8,16 +8,34 @@
 
 *¿Existe una relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
+Que relaciones van a detonar modelos, cuanto se va a poner en duda la realidd que se percibe, hasta que punto vamos a confundir las formas, como podemos convivir con un universo digital y uno natural en simultaneo en el espacio fisico.
+generar paisajes tanto digitales como fisicos en los que los modelos de procedencia natural y digital se mezclen, se confundan, se pongan en jaque.
+No tengo que demostrar nada, ¿que tanto importan los datos?
+Modo de pensar entre lo simulado y lo real.
+Simulacion critica de las realidades
+operacion que realiza
+video >> pone en dialogo universo lo real y lo virtual , confluencia presenta la simulacion de vida a traves de los medio de comunicacion en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad liquida que vemos es resultado de yuxtaponer en crisis la relidad de los humanos y la virtualizcion del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas
+
+Porque decidir entre la abstraccion y espacio real, si los puedo mezclar virtualmente.
+
 
 
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
-¿Cómo podemos aproximarnos a nuestro hábitat sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
+Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales .. Es escencialmente mi problema al producir hoy .. / la cuestion que me moviliza a investigar ..
 
-En este trabajo pongo en debate la (¿posible?) relación [visual / formal / morfológica] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
+me pregunte
+¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
+
+Esto me llevo a la posibilidad de pensar en en la posibilidad de configurar un mundo a traves de datos plasmado por la programacion
+
+En este trabajo pongo en debate la (¿posible?) relación [morfologica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
 A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observacion me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?
 
-`Continuando la investigación en un proyecto paralelo donde el existe un foco en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en un jardin, partir de este sensado y generar un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos, me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?`
+Situarme como artista en colectivo, nombrar al grupo, hablar del proyecto, toda mi obra electronica fue en colectivo.
+al otro mirar y entender la diferencia, dando la visualidad para poder entender.
+
+`Continuando la investigación en un proyecto paralelo donde el existe un foco en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en la naturaleza, partir de este sensado y generar un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos`
 
 Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
 El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
@@ -30,7 +48,7 @@ El concepto de [seed] en el lenguaje digital vinculado con lo random en este tra
 
 - ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
 - ¿Existe un punto de encuentro entre ambos mundos?
-- ¿Se puede representar algo materializable a través de datos?
+- ¿Se puede materializar un cúmulo de datos generados?
 - ¿Cuál es la forma de esta materialización?
 
 
@@ -74,3 +92,9 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 ### Bibliografía
 
 **Arlindo Machado** - *El paisaje mediático*
+
+
+
+
+MORFOGENÉTICO >> En el mismo patron / programacion esta incluida la forma. La forma que depende de la inteligencia programada para que crezca.
+Arte generativo, patron interno > Leo Solaas
