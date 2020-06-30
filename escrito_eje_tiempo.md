@@ -12,15 +12,15 @@
 - ¿Cuánto se va a poner en duda la realidad que se percibe?
 - ¿Hasta que punto vamos a confundir las formas?
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
+- ¿Qué tanto importan los datos?
 
 
 **Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclen, se confundan, se pongan en jaque.**
 
-`No tengo que demostrar nada, ¿Qué tanto importan los datos?
-
-Modo de pensar entre lo simulado y lo real.
-
+`Modo de pensar entre lo simulado y lo real.
 Simulación crítica de las realidades, operación que realiza.`
+
+**[Obra similar - para pensar]**
 
 [Obra AES+F](https://aesf.art/projects/last_riot/) >> Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad liquida que vemos es resultado de yuxtaponer en crisis la relidad de los humanos y la virtualizción del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas
 
