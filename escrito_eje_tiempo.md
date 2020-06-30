@@ -34,9 +34,9 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 Me pregunté:
 ¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
-Esto me llevo a la posibilidad de pensar en en la posibilidad de configurar un mundo a traves de datos plasmado por la programacion
+Esto me llevó a la posibilidad de pensar en en la posibilidad de configurar un mundo a traves de datos plasmado por la programacion
 
-En este trabajo pongo en debate la (¿posible?) relación [morfologica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
+En este trabajo pongo en debate la (¿posible?) relación [morfológica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
 A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observacion me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
 
 `[Nombrar al grupo, hablar del proyecto, toda mi obra electronica fue en colectivo.
