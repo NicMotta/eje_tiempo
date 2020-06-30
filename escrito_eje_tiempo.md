@@ -14,7 +14,7 @@
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
 
 
-Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclen, se confundan, se pongan en jaque.
+**Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclen, se confundan, se pongan en jaque.**
 
 No tengo que demostrar nada, ¿Qué tanto importan los datos?
 
@@ -38,9 +38,9 @@ me pregunte
 Esto me llevo a la posibilidad de pensar en en la posibilidad de configurar un mundo a traves de datos plasmado por la programacion
 
 En este trabajo pongo en debate la (¿posible?) relación [morfologica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
-A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observacion me pregunto: ¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?
+A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observacion me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
 
-Situarme como artista en colectivo, nombrar al grupo, hablar del proyecto, toda mi obra electronica fue en colectivo.
+(Situarme como artista en colectivo), nombrar al grupo, hablar del proyecto, toda mi obra electronica fue en colectivo.
 al otro mirar y entender la diferencia, dando la visualidad para poder entender.
 
 `Continuando la investigación en un proyecto paralelo donde el existe un foco en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en la naturaleza, partir de este sensado y generar un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos`
