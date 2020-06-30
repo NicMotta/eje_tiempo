@@ -106,3 +106,22 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 
 MORFOGENÉTICO >> En el mismo patron / programacion esta incluida la forma. La forma que depende de la inteligencia programada para que crezca.
 Arte generativo, patron interno > Leo Solaas
+
+
+**Puesta en marcha de una versión beta 1.0 del Sistema Innatural**
+
+![](/proceso/sistema_innatural_beta_1.gif)
+
+
+**Análisis y modelizacion de los modelos creados por el Sistema**
+
+![](/proceso/modelizacion_beta_1.gif)
+
+
+**Modelo: sensado de plantas**
+
+![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
+
+
+
+![](https://nicmotta.github.io/proyecto_observatorio/proceso/video_5.gif)
