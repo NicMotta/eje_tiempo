@@ -29,9 +29,9 @@ Simulación crítica de las realidades, operación que realiza.`
 
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
-Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales .. Es escencialmente mi problema al producir hoy .. / la cuestion que me moviliza a investigar ..
+`Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales .. Es escencialmente mi problema al producir hoy .. / la cuestion que me moviliza a investigar ..`
 
-me pregunte
+Me pregunté:
 ¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
 
 Esto me llevo a la posibilidad de pensar en en la posibilidad de configurar un mundo a traves de datos plasmado por la programacion
