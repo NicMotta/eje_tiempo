@@ -22,7 +22,7 @@ Modo de pensar entre lo simulado y lo real.
 
 Simulación crítica de las realidades, operación que realiza.
 
-Video >> pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad liquida que vemos es resultado de yuxtaponer en crisis la relidad de los humanos y la virtualizción del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas
+[Obra AES+F](https://aesf.art/projects/last_riot/) >> Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad liquida que vemos es resultado de yuxtaponer en crisis la relidad de los humanos y la virtualizción del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas
 
 Porque decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente.
 
