@@ -27,7 +27,6 @@ Simulación crítica de las realidades, operación que realiza.`
 ¿Porqué decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente?
 
 
-
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
 Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales .. Es escencialmente mi problema al producir hoy .. / la cuestion que me moviliza a investigar ..
@@ -40,10 +39,10 @@ Esto me llevo a la posibilidad de pensar en en la posibilidad de configurar un m
 En este trabajo pongo en debate la (¿posible?) relación [morfologica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
 A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observacion me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
 
-(Situarme como artista en colectivo), nombrar al grupo, hablar del proyecto, toda mi obra electronica fue en colectivo.
-al otro mirar y entender la diferencia, dando la visualidad para poder entender.
+`[Nombrar al grupo, hablar del proyecto, toda mi obra electronica fue en colectivo.
+al otro mirar y entender la diferencia, dando la visualidad para poder entender.]
 
-`Continuando la investigación en un proyecto paralelo donde el existe un foco en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en la naturaleza, partir de este sensado y generar un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos`
+Continuando la investigación en un proyecto paralelo donde el existe un foco en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en la naturaleza, partir de este sensado y generar un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos`
 
 Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
 El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
