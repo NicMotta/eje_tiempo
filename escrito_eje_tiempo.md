@@ -6,7 +6,8 @@
 ## Sistema_innatural_1
 
 [Introducción de cómo llegué a este trabajo]
-`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algoritmicamente / numericamente, basandome en un patron de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté si los datos son importantes, si existe una relacion morfologica / morfogenetica entre ambos modelos. 
+
+`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algoritmicamente / numericamente, basandome en un patron de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté si los datos son importantes, si existe una relacion morfologica / morfogenetica entre ambos modelos.
 
 `
 
