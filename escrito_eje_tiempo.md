@@ -19,9 +19,6 @@
 `Modo de pensar entre lo simulado y lo real.
 Simulación crítica de las realidades, operación que realiza.`
 
-**[Obra similar - para pensar]**
-
-[Obra AES+F](https://aesf.art/projects/last_riot/) >> *Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad líquida que vemos es resultado de yuxtaponer en crisis la realidad de los humanos y la virtualización del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas*
 
 ¿Por qué decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente?
 
@@ -39,9 +36,15 @@ En este trabajo pongo en debate la (¿posible?) relación [morfológica / morfog
 A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observación me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
 
 `[Nombrar al grupo, hablar del proyecto, toda mi obra electrónica fue en colectivo.
-al otro mirar y entender la diferencia, dando la visualidad para poder entender.]
+al otro mirar y entender la diferencia, dando la visualidad para poder entender.]`
 
-Continuando la investigación en un proyecto paralelo donde el existe un foco en sensar y registrar minuto a minuto el movimiento y vibración de semillas, plantas y diferentes organismos que habitan en la naturaleza, partir de este sensado y generar un modelo 3D del mismo modo en que lo hago en este proyecto. Luego de observar el resultado de ambos modelos`
+Mi acercamiento a la producción de arte elecrónico se desarrolla dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, gracias a un sensor podemos registrar puntos en el espacio que visibilizan el crecimiento en forma de nube de puntos ó modelo 3D.
+
+**Modelo: sensado de plantas**
+
+![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
+
+
 
 Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
 El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
@@ -117,10 +120,9 @@ Arte generativo, patrón interno > Leo Solaas
 ![](/proceso/modelizacion_beta_1.gif)
 
 
-**Modelo: sensado de plantas**
-
-![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
-
-
-
 ![](https://nicmotta.github.io/proyecto_observatorio/proceso/video_5.gif)
+
+
+**[Obra similar - para pensar]**
+
+[Obra AES+F](https://aesf.art/projects/last_riot/) >> *Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad líquida que vemos es resultado de yuxtaponer en crisis la realidad de los humanos y la virtualización del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas*
