@@ -4,7 +4,6 @@
 ------
 
 ## Sistema_innatural_1
-# MAC
 
 *¿Existe una relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
