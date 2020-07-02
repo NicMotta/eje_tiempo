@@ -5,6 +5,24 @@
 
 ## Sistema_innatural_1
 
+[Introducción de cómo llegué a este trabajo]
+
+Mi acercamiento a la producción de arte elecrónico se desarrolla dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, gracias a un sensor podemos registrar puntos en el espacio que visibilizan el crecimiento en forma de nube de puntos ó modelo 3D.
+
+**Modelo: sensado de plantas**
+
+![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
+
+Me pregunté:
+¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos.
+
+Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación
+
+
+Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
+El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
+
+
 *¿Existe una relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
 - ¿Qué relaciones van a detonar modelos?
@@ -16,41 +34,18 @@
 
 **Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque.**
 
-`Modo de pensar entre lo simulado y lo real.
-Simulación crítica de las realidades, operación que realiza.`
-
-
-¿Por qué decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente?
+- Modo de pensar entre lo simulado y lo real.
+- Simulación crítica de las realidades, operación que realiza.
+- ¿Por qué decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente?
 
 
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
 `Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales .. Es esencialmente mi problema al producir hoy .. / la cuestión que me moviliza a investigar ..`
 
-Me pregunté:
-¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos, plasmada en una programación. Esta obra nos permite experimentar otra forma de relacionarnos con nuestro espacio y percibir sus cambios con el paso del tiempo.
-
-Esto me llevó a la posibilidad de pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación
 
 En este trabajo pongo en debate la (¿posible?) relación [morfológica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
 A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observación me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
-
-`[Nombrar al grupo, hablar del proyecto, toda mi obra electrónica fue en colectivo.
-al otro mirar y entender la diferencia, dando la visualidad para poder entender.]`
-
-Mi acercamiento a la producción de arte elecrónico se desarrolla dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, gracias a un sensor podemos registrar puntos en el espacio que visibilizan el crecimiento en forma de nube de puntos ó modelo 3D.
-
-**Modelo: sensado de plantas**
-
-![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
-
-
-
-Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
-El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
-
-
-[...] continuar
 
 
 **Preguntas para pensar:**
@@ -60,9 +55,10 @@ El concepto de [seed] en el lenguaje digital vinculado con lo random en este tra
 - ¿Se puede materializar un cúmulo de datos generados?
 - ¿Cuál es la forma de esta materialización?
 
+-------
 
-**[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios regidos por un patrón de crecimiento, ubica puntos en el plano 3D y que luego son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
-`Una véz generados (cierta cantidad de modelos) son puestos en un mismo espacio recorrible (real o virtual) junto con modelos de procedencia natural.`
+
+**[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios regidos por un patrón de crecimiento, ubica puntos en el plano 3D, que luego son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
 
 Un sistema no natural [innatural], el cual basándose tanto en [valores randoms] y su procesamiento genera los ejes X, Y, Z y los publica en un servidor [MQTT / nube], dicho sistema nos muestra información de su crecimiento / expansión, los datos enviados, como también la distancia entre esos puntos.
 La idea es que el [Sistema Innatural] funcione constantemente durante días en una Raspberry PI conectada a internet, durante 24 hs generará puntos siguiendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese tiempo el sistema guarda todas esas coordenadas en un archivo .csv y reinicia el sistema dejando ciertos valores o parámetros del modelo anterior los cuales se van a sumar / integrar al nuevo modelo por generar, de esta manera existe una pseudo mutación o feedback desde donde comenzar a construir y contribuyendo a un patrón de crecimiento.
