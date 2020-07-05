@@ -21,6 +21,7 @@
 - [[20 de junio - Puesta en marcha del sistema beta v.1.0]](https://nicmotta.github.io/eje_tiempo/#20-de-junio)
 - [[22 de junio - Sinopsis versión 3.0]](https://nicmotta.github.io/eje_tiempo/#22-de-junio)
 - [[24 de junio - Término Morfogénesis]](https://nicmotta.github.io/eje_tiempo/#24-de-junio)
+- [[3 de julio - Bocetos]](https://nicmotta.github.io/eje_tiempo/#3-de-julio)
 - [[5 de julio - Acerca del trabajo / forma de mostrarlo]](https://nicmotta.github.io/eje_tiempo/#5-de-julio)
 
 ___________
@@ -371,12 +372,22 @@ _______
 _______
 
 
+### [3 de julio]
+
+**Bocetos**
+
+![](/proceso/boceto1.jpg)
+
+
+![](/proceso/boceto2.jpg)
+
+
 ### [5 de julio]
 
 **¿Cómo mostrar el trabajo? / ¿Qué visualidad tendrá?**
 
 - ¿Cómo hacer para que la visualidad acompañe el proceso y cuerpo del trabajo?
 
-`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algoritmicamente / numericamente, basandome en una programacion inicial [semilla / seed] y un patron de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté si los datos son importantes, si existe una relacion morfologica / morfogenetica entre ambos modelos.`
+`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU 7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algorítmicamente / numéricamente, basándome en una programacion inicial [semilla / seed] y un patrón de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté: ¿Los datos son importantes? ¿Existe una relación morfológica / morfogónetica entre ambos modelos?`
 
 - ¿Tiene sentido comparar?
