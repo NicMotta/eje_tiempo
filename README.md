@@ -20,6 +20,8 @@
 - [[18 de junio - Decisiones tomadas hasta el momento]](https://nicmotta.github.io/eje_tiempo/#18-de-junio)
 - [[20 de junio - Puesta en marcha del sistema beta v.1.0]](https://nicmotta.github.io/eje_tiempo/#20-de-junio)
 - [[22 de junio - Sinopsis versión 3.0]](https://nicmotta.github.io/eje_tiempo/#22-de-junio)
+- [[24 de junio - Término Morfogénesis]](https://nicmotta.github.io/eje_tiempo/#24-de-junio)
+- [[5 de julio - Acerca del trabajo / forma de mostrarlo]](https://nicmotta.github.io/eje_tiempo/#5-de-julio)
 
 ___________
 
@@ -365,3 +367,12 @@ _______
 
 
 **Morfogenética >>> Arlindo Machado** - *El paisaje mediático*
+
+_______
+
+
+### [5 de julio]
+
+**¿Cómo mostrar el trabajo? / ¿Qué visualidad tendrá?**
+
+- ¿Cómo hacer para que la visualidad acompañe el proceso y cuerpo del trabajo?
