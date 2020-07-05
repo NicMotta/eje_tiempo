@@ -381,6 +381,8 @@ _______
 
 ![](/proceso/boceto2.jpg)
 
+________
+
 
 ### [5 de julio]
 
