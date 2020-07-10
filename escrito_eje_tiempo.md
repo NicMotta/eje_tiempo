@@ -10,10 +10,10 @@ Resúmen mental:
 
 Tras la observación y manipulación de los distintos registros de **MURU7.8** me pregunto: **¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural?**
 
-Tomo como eje principal el término **"seed" cómo núcleo contenedor de información para el patrón de creecimiento**: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número **random** [método por el cúal se generan los modelos digitales en **sistema_innatural**]
+Tomo como eje principal el término **"seed" cómo núcleo contenedor de información para el patrón de creecimiento**: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número **aleatorio** [método por el cúal se generan los modelos digitales en **sistema_innatural**]
 
 En este ejercicio propongo desarrollar una **[forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes**, poniendo en diálogo / duda:
-- ¿Cómo es la generación de un número random en los lenguajes digitales?
+- ¿Cómo es la generación de un número aleatorio en los lenguajes digitales?
 - ¿Qué relaciones van a detonar modelos?
 - ¿Cuánto se va a poner en duda la realidad que se percibe?
 - ¿Qué tanto importan los datos?
@@ -23,35 +23,67 @@ En este ejercicio propongo desarrollar una **[forma] de visualizar ambos registr
 
 ---
 
-Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de los organismos y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
+[Desarrollo]
+
+
+Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de dichos sistemas y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
 
 **Modelo: sensado de planta Achira [Muru7.8]**
 
 ![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
 
-Observando lo registrado con Muru7.8 me pregunté:
-¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos.
-
-Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación.
-
-Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
-El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
-
+Tras la observación de los registros de Muru7.8 me pregunto:
 
 *¿Cómo es la relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
+Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos. Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación.
 
-**Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque.**
+Tomo cómo eje principal el término / la noción de "seed" cómo núcleo contenedor de información para el patrón de creecimiento: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número aleatorio [método utilizado para generar modelos digitales en sistema_innatural]
+
+
+**[El abstracto mundo de lo aleatorio]**
+
+*¿Cómo es la generación de un número aleatorio en los lenguajes digitales?*
+
+Lo aleatorio en los sistemas digitales no existen como tal, las computadoras están construidas para ser determinísticas. Es decir, dado un conjunto de entradas, las salidas van a ser siempre las mismas.
+Sabiendo entonces que una computadora, como máquina que es, no puede producir resultados espontáneos ¿Cómo es capaz de generar un numero aleatorio?
+
+Para generar eventos aleatorios, existen dos acercamientos: el uso de números pseudoaleatorios, o tomar un número aleatorio de una fuente externa.
+
+Los números pseudoaleatorios, como su nombre da a entender, son números que no son realmente aleatorios, pero que lo parecen. Estos números siguen un patrón.
+
+*La diferencia básica entre PRNG [numeros pseudoaleatorios] y TRNG [verdaderamente aleatorios] es fácil de entender si compara números aleatorios generados por computadora con tiradas de un dado. Debido a que los PRNG generan números aleatorios usando fórmulas matemáticas o listas precalculadas, el uso de uno corresponde a alguien que tira un dado muchas veces y anota los resultados. Cada vez que pides una tirada de dados, obtienes el siguiente en la lista. Efectivamente, los números parecen aleatorios, pero están realmente predeterminados. Los TRNG funcionan haciendo que una computadora realmente tire el dado o, más comúnmente, usen algún otro fenómeno físico que sea más fácil de conectar a una computadora que un dado. Dr Mads Haahr, Random.org* 
+
+Tomando como ejemplo el dado, podemos decir que no existen numeros random en la realidad, sino que existe una incapacidad del humano de predecir lo resultado.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes, generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque.**
 
 - Modo de pensar entre lo simulado y lo real.
 - Simulación crítica de las realidades, operación que realiza.
 - ¿Por qué decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente?
 
+- ¿Qué relaciones van a detonar modelos?
+- ¿Cuánto se va a poner en duda la realidad que se percibe?
+- ¿Qué tanto importan los datos?
+- ¿Hasta que punto vamos a confundir las formas?
+- ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
 
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
-`Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales .. Es esencialmente mi problema al producir hoy .. / la cuestión que me moviliza a investigar ..`
-
+Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales es la cuestión que me moviliza a investigar
 
 En este trabajo pongo en debate la (¿posible?) relación [morfológica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
 A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observación me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
