@@ -76,6 +76,16 @@ En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
 - ¿Se puede materializar un cúmulo de datos generados?
 
+
+**Puesta en marcha de una versión beta 1.0 del Sistema Innatural**
+
+![](/proceso/sistema_innatural_beta_1.gif)
+
+
+**Análisis y modelización de los modelos creados por el Sistema**
+
+![](/proceso/modelizacion_beta_1.gif)
+
 -------
 
 ### [Investigación tecnológica]
@@ -104,16 +114,6 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 
 **Andreas Lutz** >>
 - [*Offset XYZ* - 2018](http://andreaslutz.com/offset-xyz/)
-
-
-**Puesta en marcha de una versión beta 1.0 del Sistema Innatural**
-
-![](/proceso/sistema_innatural_beta_1.gif)
-
-
-**Análisis y modelización de los modelos creados por el Sistema**
-
-![](/proceso/modelizacion_beta_1.gif)
 
 
 
