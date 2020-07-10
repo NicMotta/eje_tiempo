@@ -48,11 +48,9 @@ Tomo cómo eje principal el término / la noción de "seed" cómo núcleo conten
 Lo aleatorio en los sistemas digitales no existen como tal, las computadoras están construidas para ser determinísticas. Es decir, dado un conjunto de entradas, las salidas van a ser siempre las mismas.
 Sabiendo entonces que una computadora, como máquina que es, no puede producir resultados espontáneos ¿Cómo es capaz de generar un numero aleatorio?
 
-Para generar eventos aleatorios, existen dos acercamientos: el uso de números pseudoaleatorios, o tomar un número aleatorio de una fuente externa.
+Para generar eventos aleatorios, existen dos acercamientos: el uso de números pseudoaleatorios, o tomar un número aleatorio de una fuente externa. Los números pseudoaleatorios, como su nombre da a entender, son números que no son realmente aleatorios, pero que lo parecen. Estos números siguen un patrón.
 
-Los números pseudoaleatorios, como su nombre da a entender, son números que no son realmente aleatorios, pero que lo parecen. Estos números siguen un patrón.
-
-*La diferencia básica entre PRNG [numeros pseudoaleatorios] y TRNG [verdaderamente aleatorios] es fácil de entender si compara números aleatorios generados por computadora con tiradas de un dado. Debido a que los PRNG generan números aleatorios usando fórmulas matemáticas o listas precalculadas, el uso de uno corresponde a alguien que tira un dado muchas veces y anota los resultados. Cada vez que pides una tirada de dados, obtienes el siguiente en la lista. Efectivamente, los números parecen aleatorios, pero están realmente predeterminados. Los TRNG funcionan haciendo que una computadora realmente tire el dado o, más comúnmente, usen algún otro fenómeno físico que sea más fácil de conectar a una computadora que un dado. Dr Mads Haahr, Random.org*
+*"La diferencia básica entre PRNG [numeros pseudoaleatorios] y TRNG [verdaderamente aleatorios] es fácil de entender si compara números aleatorios generados por computadora con tiradas de un dado. Debido a que los PRNG generan números aleatorios usando fórmulas matemáticas o listas precalculadas, el uso de uno corresponde a alguien que tira un dado muchas veces y anota los resultados. Cada vez que pides una tirada de dados, obtienes el siguiente en la lista. Efectivamente, los números parecen aleatorios, pero están realmente predeterminados. Los TRNG funcionan haciendo que una computadora realmente tire el dado o, más comúnmente, usen algún otro fenómeno físico que sea más fácil de conectar a una computadora que un dado." Dr Mads Haahr, Random.org*
 
 Tomando como ejemplo el dado, podemos decir que no existen números aleatorios en la realidad, sino que existe una incapacidad del humano de predecir el resultado.
 
@@ -72,10 +70,6 @@ Tomando como ejemplo el dado, podemos decir que no existen números aleatorios e
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
 Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales es la cuestión que me moviliza a investigar
-
-En este trabajo pongo en debate la (¿posible?) relación [morfológica / morfogenética] entre modelos de procedencia digital / [numérica] y otros de carácter sistémico natural.
-A través de la generación y comparación de dichos modelos tridimensionales, y, luego de la observación me pregunto: **¿Existe un punto de encuentro entre lo generado digitalmente con lo que proviene de la naturaleza?**
-
 
 **Preguntas para pensar:**
 
