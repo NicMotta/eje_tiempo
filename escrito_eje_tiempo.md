@@ -127,7 +127,5 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 **Arlindo Machado** - *El paisaje mediático*
 
 
-
-
 MORFOGENÉTICO >> En el mismo patrón / programación está incluida la forma. La forma que depende de la inteligencia programada para que crezca.
 Arte generativo, patrón interno > Leo Solaas
