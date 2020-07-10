@@ -393,3 +393,35 @@ ________
 `Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU 7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algorítmicamente / numéricamente, basándome en una programacion inicial [semilla / seed] y un patrón de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté: ¿Los datos son importantes? ¿Existe una relación morfológica / morfogónetica entre ambos modelos?`
 
 - ¿Tiene sentido comparar?
+
+---
+
+### [10 de julio]
+
+**[Obra similar - para pensar]**
+
+[Obra AES+F](https://aesf.art/projects/last_riot/) >> *Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad líquida que vemos es resultado de yuxtaponer en crisis la realidad de los humanos y la virtualización del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas*
+
+
+## Clara:
+
+- Mucha informacion, no se sabe por donde empezar. Carl Sagan >> muy técnico
+- Explicar mejor la relacion entre los patrones naturales y los randoms? Ver ambas imagenes, comparar datos. Ver si ese patrón se va generando.
+- Profundizar como funcionar algo randómico, énfasis conlos datos, y que suceden con ellos. Devuelven un modelo 3D. Siempre interaccion algo con algo, foco del texto de manerea cuantificada. Como lo datos y los sentidos pueden interactuar.
+- "Crear vida a partir de lo digital" >> Levi -> la semilla es en potencia un arbol, la virtualizacion del arbol en si. Vuelta de tuerca
+- Punto de encuentro o dialogo entre ambos mundos, modelos, procedencia digital, mundos, espacios. >> PRECISAR.
+- Semilla de entrada (imágen / cuestión)
+- Mostrar y hacer vinculacion entre el texto y la imagen >> Una imagen a traves del texto.
+- La creacion de que, uno es el creador? >> Referencia de Saraceno.
+- Plantearlo como ejercicio [no es obra, todavía]
+- Marcar bien el camino, no se sabe a donde voy.
+- Donde está el foco, situar el ladrillo y ver de que manera de vincula con los otros.
+- Lo técnico tiene peso, como estoy pensando lo tecnico? de que manera desplegarlo para que se pueda ver ese proceso.
+
+
+
+- ¿Qué relaciones van a detonar modelos?
+- ¿Cuánto se va a poner en duda la realidad que se percibe?
+- ¿Hasta que punto vamos a confundir las formas?
+- ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
+- ¿Qué tanto importan los datos?
