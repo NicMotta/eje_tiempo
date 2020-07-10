@@ -1,5 +1,3 @@
-
-
 # [Escrito Eje Tiempo -> sistema_innatural_1]
 ### [[Ir a Proceso / Bitácora]](https://nicmotta.github.io/eje_tiempo)
 
