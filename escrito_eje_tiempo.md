@@ -85,7 +85,7 @@ En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros
 
 ### [Investigación tecnológica]
 
-**[sistema_innatural_1]** consta de una programación que funcionará sin parar en una [Raspberry PI] conectada a internet, generará puntos siguiendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese ciclo el sistema guarda todas esas coordenadas en un archivo y reinicia el sistema, dejando valores los cuales se van a sumar / integrar al siguiente modelo por generar.
+**[sistema_innatural_1]** consta de una programación que funcionará sin parar en una [Raspberry PI] conectada a internet, generará puntos siguiendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido dicho ciclo, el sistema guarda todas esas coordenadas en un archivo y reinicia el sistema, dejando valores los cuales se van a sumar / integrar al siguiente modelo por generar.
 
 Su procesamiento genera los ejes X, Y, Z y los publica en un servidor en internet, nos muestra información de su crecimiento / expansión, los datos enviados, como también la distancia entre esos puntos.
 
