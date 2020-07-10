@@ -29,9 +29,6 @@ Mi acercamiento a la producción de arte elecrónico se desarrolla principalment
 ![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
 
 
-![](https://nicmotta.github.io/proyecto_observatorio/proceso/video_5.gif)
-
-
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
 
 Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales es la cuestión que me moviliza a investigar, tras la observación de los registros de Muru7.8 me pregunto:
