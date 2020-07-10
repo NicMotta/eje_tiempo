@@ -11,7 +11,12 @@
 Tras la observación y manipulación de los registros de MURU7.8 me pregunto ¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural? Tomando como eje principal el término "Seed" como nucleo contenedor de información para el patrón de creecimiento. Por un lado la informacion genetica contenida en una semilla y por otro lado la manera en la cual se genera un numero random [manera en la cual genero modelos digitales en sistema innatural]
 Propongo desarrollar una manera de visualizar ambos registros/modelos para evidenciar estos puntos de encuentro o similitudes, poniendo en dialogo / duda:
 - como es la generacion de un numero random en los lenguajes digitales
-- poner en jaque los valores, realmente son necesarios, hasta que punto?`
+- poner en jaque los valores, realmente son necesarios, hasta que punto?
+- ¿Qué relaciones van a detonar modelos?
+- ¿Cuánto se va a poner en duda la realidad que se percibe?
+- ¿Hasta que punto vamos a confundir las formas?
+- ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
+- ¿Qué tanto importan los datos?`
 
 Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de los organismos y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
 
