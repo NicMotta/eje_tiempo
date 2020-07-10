@@ -95,8 +95,6 @@ Al mismo tiempo un script permite visualizar los puntos que están siendo creado
 
 Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para el análisis y manipulación de esos archivos .csv, donde por acumulación de puntos, reduzco la cantidad de datos a menos de 20 [vectores] para crear vinculaciones entre ellos y posteriormente una malla. De esta manera puedo generar un modelo 3D a partir de todos los modelos creados como también un modelo individual para cada ciclo de sistema.
 
-En este proyecto no estoy utilizando [por ahora] software de inteligencia artificial, no descarto hacerlo en un futuro sí me parece necesario su implementación.
-
 
 ### [Referentes artísticos]
 
