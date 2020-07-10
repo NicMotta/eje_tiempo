@@ -1,18 +1,17 @@
 ## Escrito Eje Tiempo
 ### [[Ir a Proceso / Bitácora]](https://nicmotta.github.io/eje_tiempo)
 
-------
 
 ## Sistema_innatural_1
 
----
+
 Resúmen mental:
 
-Tras la observación y manipulación de los distintos registros de **MURU7.8** me pregunto: **¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural?**
+Tras la observación y manipulación de los distintos registros sensados de eventos naturales en espacios situados junto al grupo **MURU7.8**, y la invensión personal en laboratorio digital de eventos ficticios, me pregunto: **¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural?**
 
-Tomo como eje principal el término **"seed" cómo núcleo contenedor de información para el patrón de creecimiento**: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número **aleatorio** [método por el cúal se generan los modelos digitales en **sistema_innatural**]
+Tomo como eje coincidente el término **"seed" cómo núcleo contenedor de información para el patrón de creecimiento**: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número **aleatorio** [método por el cúal se generan los modelos digitales en **sistema_innatural**]
 
-En este ejercicio propongo desarrollar una **[forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes**, poniendo en diálogo / duda:
+En este proyecto propongo desarrollar una **[forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes**, poniendo en diálogo / duda:
 - ¿Cómo es la generación de un número aleatorio en los lenguajes digitales?
 - ¿Qué relaciones van a detonar modelos?
 - ¿Cuánto se va a poner en duda la realidad que se percibe?
@@ -35,7 +34,10 @@ Mi acercamiento a la producción de arte elecrónico se desarrolla principalment
 
 ![](https://nicmotta.github.io/proyecto_observatorio/proceso/video_5.gif)
 
-Tras la observación de los registros de Muru7.8 me pregunto:
+
+Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
+
+Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales es la cuestión que me moviliza a investigar, tras la observación de los registros de Muru7.8 me pregunto:
 
 *¿Cómo es la relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
@@ -43,6 +45,8 @@ Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros
 
 Tomo cómo eje principal el término / la noción de "seed" cómo núcleo contenedor de información para el patrón de creecimiento: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número aleatorio [método utilizado para generar modelos digitales en sistema_innatural]
 
+
+// conexión entre seed y lo siguiente //
 
 **[El abstracto mundo de lo aleatorio]**
 
@@ -58,7 +62,7 @@ Para generar eventos aleatorios, existen dos acercamientos: el uso de números p
 Tomando como ejemplo el dado, podemos decir que no existen números aleatorios en la realidad, sino que existe una incapacidad del humano de predecir el resultado.
 
 
-**En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes, generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque.**
+En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes, generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque, desafíen nuestra capacidad de diferenciarlos.
 
 - Modo de pensar entre lo simulado y lo real.
 - Simulación crítica de las realidades, operación que realiza.
@@ -70,9 +74,6 @@ Tomando como ejemplo el dado, podemos decir que no existen números aleatorios e
 - ¿Hasta que punto vamos a confundir las formas?
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
 
-Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
-
-Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales es la cuestión que me moviliza a investigar
 
 **Preguntas para pensar:**
 
@@ -83,11 +84,14 @@ Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales q
 
 -------
 
+### [Descripción Técnica ?]
 
 **[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios regidos por un patrón de crecimiento, ubica puntos en el plano 3D, que luego son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
 
 Un sistema no natural [innatural], el cual basándose tanto en [valores randoms] y su procesamiento genera los ejes X, Y, Z y los publica en un servidor [MQTT / nube], dicho sistema nos muestra información de su crecimiento / expansión, los datos enviados, como también la distancia entre esos puntos.
-La idea es que el [Sistema Innatural] funcione constantemente durante días en una Raspberry PI conectada a internet, durante 24 hs generará puntos siguiendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese tiempo el sistema guarda todas esas coordenadas en un archivo .csv y reinicia el sistema dejando ciertos valores o parámetros del modelo anterior los cuales se van a sumar / integrar al nuevo modelo por generar, de esta manera existe una pseudo mutación o feedback desde donde comenzar a construir y contribuyendo a un patrón de crecimiento.
+
+La idea es que el [sistema_innatural_1] funcione constantemente durante días en una Raspberry PI conectada a internet, durante 24 hs generará puntos siguiendo un patrón de crecimiento aleatorio [basado en las sumatoria y procesamiento de los valores generados], una vez cumplido ese tiempo el sistema guarda todas esas coordenadas en un archivo .csv y reinicia el sistema dejando ciertos valores o parámetros del modelo anterior los cuales se van a sumar / integrar al nuevo modelo por generar, de esta manera existe una pseudo mutación o feedback desde donde comenzar a construir y contribuyendo a un patrón de crecimiento.
+
 
 Por otro lado desarrollé un script capaz de visualizar los puntos que están siendo creados en tiempo real y enviados a través de internet. Cualquier persona que tenga este programa puede ver el modelo que se esté generando en ese momento. Del mismo modo, recibe la señal para que cada 24hs se reinicie y guarde en un archivo .csv el modelo de ese día.
 
@@ -129,3 +133,10 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 
 MORFOGENÉTICO >> En el mismo patrón / programación está incluida la forma. La forma que depende de la inteligencia programada para que crezca.
 Arte generativo, patrón interno > Leo Solaas
+
+
+
+**Estructura**
+- Abstract
+- Memoria procesual / conceptual
+- Descripción técnica del proyecto
