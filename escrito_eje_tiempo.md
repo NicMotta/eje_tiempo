@@ -7,7 +7,11 @@
 
 [Introducción de cómo llegué a este trabajo]
 
-`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algoritmicamente / numericamente, basandome en una programacion inicial [semilla / seed] y un patrón de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté si los datos son importantes, si existe una relacion morfologica / morfogenetica entre ambos modelos.`
+`Nota Mental:
+Tras la observación y manipulación de los registros de MURU7.8 me pregunto ¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural? Tomando como eje principal el término "Seed" como nucleo contenedor de información para el patrón de creecimiento. Por un lado la informacion genetica contenida en una semilla y por otro lado la manera en la cual se genera un numero random [manera en la cual genero modelos digitales en sistema innatural]
+Propongo desarrollar una manera de visualizar ambos registros/modelos para evidenciar estos puntos de encuentro o similitudes, poniendo en dialogo / duda:
+- como es la generacion de un numero random en los lenguajes digitales
+- poner en jaque los valores, realmente son necesarios, hasta que punto?`
 
 Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de los organismos y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
 
