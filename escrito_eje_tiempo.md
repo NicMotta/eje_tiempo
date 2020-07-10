@@ -43,6 +43,8 @@ Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros
 Tomo cómo eje principal el término / la noción de "seed" cómo núcleo contenedor de información para el patrón de creecimiento: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número aleatorio [método utilizado para generar modelos digitales en sistema_innatural]
 
 
+// patrón de crecimiento //
+// desarrollar morfogénesis //
 // conexión entre seed y lo siguiente //
 
 
