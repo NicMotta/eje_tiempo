@@ -5,7 +5,7 @@
 ## Sistema_innatural_1
 
 
-Resúmen mental:
+### [Abstract]
 
 Tras la observación y manipulación de los distintos registros sensados de eventos naturales en espacios situados junto al grupo **MURU7.8**, y la invensión personal en laboratorio digital de eventos ficticios, me pregunto: **¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural?**
 
@@ -20,9 +20,7 @@ En este proyecto propongo desarrollar una **[forma] de visualizar ambos registro
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
 
 
----
-
-[Desarrollo]
+### [Memomoria procesual / conceptual]
 
 
 Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de dichos sistemas y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
@@ -84,7 +82,7 @@ En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros
 
 -------
 
-### [Descripción Técnica ?]
+### [Investigación tecnológica]
 
 **[sistema_innatural_1]** consta de una programación la cual genera datos aleatorios regidos por un patrón de crecimiento, ubica puntos en el plano 3D, que luego son manipulados para crear una malla digital / [modelo 3D, nube de puntos].
 
