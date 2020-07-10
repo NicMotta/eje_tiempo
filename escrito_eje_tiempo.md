@@ -63,23 +63,17 @@ Tomando como ejemplo el dado, podemos decir que no existen números aleatorios e
 
 En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes, generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque, desafíen nuestra capacidad de diferenciarlos.
 
+
+**Preguntas para pensar**
+
 - Modo de pensar entre lo simulado y lo real.
 - Simulación crítica de las realidades, operación que realiza.
-- ¿Por qué decidir entre la abstracción y espacio real, si los puedo mezclar virtualmente?
-
 - ¿Qué relaciones van a detonar modelos?
 - ¿Cuánto se va a poner en duda la realidad que se percibe?
 - ¿Qué tanto importan los datos?
 - ¿Hasta que punto vamos a confundir las formas?
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
-
-
-**Preguntas para pensar:**
-
-- ¿Qué tan random puede ser un sistema? ¿Cómo se genera ese número random?
-- ¿Existe un punto de encuentro entre ambos mundos?
 - ¿Se puede materializar un cúmulo de datos generados?
-- ¿Cuál es la forma de esta materialización?
 
 -------
 
