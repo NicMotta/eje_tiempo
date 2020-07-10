@@ -40,11 +40,11 @@ Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales q
 
 Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos. Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación.
 
-Tomo cómo eje principal el término / la noción de "seed" cómo núcleo contenedor de información para el patrón de creecimiento: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número aleatorio [método utilizado para generar modelos digitales en sistema_innatural]
+Tomo cómo eje principal el término / la noción de [seed] cómo núcleo contenedor de información para el patrón de creecimiento: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número aleatorio [método utilizado para generar modelos digitales en sistema_innatural]
 
 
-// patrón de crecimiento //
-// desarrollar morfogénesis //
+// patrón de crecimiento -> ¿Qué es un patrón de crecimiento? //
+// desarrollar morfogénesis -> Arlindo Machado //
 // conexión entre seed y lo siguiente //
 
 
