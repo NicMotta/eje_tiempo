@@ -140,3 +140,5 @@ Arte generativo, patrón interno > Leo Solaas
 - Abstract
 - Memoria procesual / conceptual
 - Descripción técnica del proyecto
+ - Metodología tecnológica
+ - Investigación tecnológica
