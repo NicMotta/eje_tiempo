@@ -41,7 +41,7 @@ Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros
 
 // patrón de crecimiento -> ¿Qué es un patrón de crecimiento? //
 // desarrollar morfogénesis -> Arlindo Machado //
-// conexión entre seed y lo siguiente //
+// conexión entre seed y lo aleatorio digital //
 
 
 **[El abstracto mundo de lo aleatorio]**
