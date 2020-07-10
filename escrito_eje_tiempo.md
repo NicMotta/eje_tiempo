@@ -5,10 +5,9 @@
 
 ## Sistema_innatural_1
 
-[Introducción de cómo llegué a este trabajo]
-
 ---
 Resúmen mental:
+
 Tras la observación y manipulación de los distintos registros de *MURU7.8* me pregunto: *¿Cómo es la relacion morfogenética entre los modelos de procedencia digital y los de procedencia natural?*
 
 Tomo como eje principal el término *"seed" cómo núcleo contenedor de información para el patrón de creecimiento*: Por un lado la información genética contenida en una semilla y por otro lado la manera en la cual se genera un número *random* [manera en la cual genero modelos digitales en *sistema_innatural*]
