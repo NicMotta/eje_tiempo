@@ -7,31 +7,24 @@
 
 [Introducción de cómo llegué a este trabajo]
 
-`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algoritmicamente / numericamente, basandome en una programacion inicial [semilla / seed] y un patron de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté si los datos son importantes, si existe una relacion morfologica / morfogenetica entre ambos modelos.`
+`Nota Mental: Este trabajo tiene como punto de partida la necesidad de sensar / registrar datos del espacio que habito y mezclarlo con modelizaciones 3D. Luego de trabajar, observar y analizar los modelos generados con MURU7.8 provenientes de la naturaleza, me pongo a pensar si existe un punto de encuentro entre dichos modelos y otros generados algoritmicamente / numericamente, basandome en una programacion inicial [semilla / seed] y un patrón de crecimiento. Como primera idea programé un sistema digital que ""emula"" un sistema natural y genera datos que luego son transformados en modelos 3D, luego de ver los resultados, me pregunté si los datos son importantes, si existe una relacion morfologica / morfogenetica entre ambos modelos.`
 
-Mi acercamiento a la producción de arte elecrónico se desarrolla dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, gracias a un sensor podemos registrar puntos en el espacio que visibilizan el crecimiento en forma de nube de puntos ó modelo 3D.
+Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde en nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de los organismos y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
 
-**Modelo: sensado de plantas**
+**Modelo: sensado de planta Achira [Muru7.8]**
 
 ![](https://nicmotta.github.io/proyecto_observatorio/proceso/achira_1.gif)
 
-Me pregunté:
+Observando lo registrado con Muru7.8 me pregunté:
 ¿Cómo podemos aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos? Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos.
 
-Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación
-
+Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación.
 
 Al mismo tiempo rescato la idea de "semilla" o "seed" como la parte fundamental y detonadora de crecimiento, como si de una fuente de información se tratara.
 El concepto de [seed] en el lenguaje digital vinculado con lo random en este trabajo tiene gran protagonismo, ya que los puntos generados son en gran medida aleatorios, ¿De donde proviene la aleatoriedad? Podemos pensar que tanto las mediciones y los puntos generados de ambos mundos tienen como núcleo / punto de inicio la [semilla].
 
 
-*¿Existe una relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
-
-- ¿Qué relaciones van a detonar modelos?
-- ¿Cuánto se va a poner en duda la realidad que se percibe?
-- ¿Hasta que punto vamos a confundir las formas?
-- ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
-- ¿Qué tanto importan los datos?
+*¿Cómo es la relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
 
 
 **Generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque.**
@@ -124,3 +117,31 @@ Arte generativo, patrón interno > Leo Solaas
 **[Obra similar - para pensar]**
 
 [Obra AES+F](https://aesf.art/projects/last_riot/) >> *Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad líquida que vemos es resultado de yuxtaponer en crisis la realidad de los humanos y la virtualización del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas*
+
+
+
+
+
+
+## Clara:
+
+- Mucha informacion, no se sabe por donde empezar. Carl Sagan >> muy técnico
+- Explicar mejor la relacion entre los patrones naturales y los randoms? Ver ambas imagenes, comparar datos. Ver si ese patrón se va generando.
+- Profundizar como funcionar algo randómico, énfasis conlos datos, y que suceden con ellos. Devuelven un modelo 3D. Siempre interaccion algo con algo, foco del texto de manerea cuantificada. Como lo datos y los sentidos pueden interactuar.
+- "Crear vida a partir de lo digital" >> Levi -> la semilla es en potencia un arbol, la virtualizacion del arbol en si. Vuelta de tuerca
+- Punto de encuentro o dialogo entre ambos mundos, modelos, procedencia digital, mundos, espacios. >> PRECISAR.
+- Semilla de entrada (imágen / cuestión)
+- Mostrar y hacer vinculacion entre el texto y la imagen >> Una imagen a traves del texto.
+- La creacion de que, uno es el creador? >> Referencia de Saraceno.
+- Plantearlo como ejercicio [no es obra, todavía]
+- Marcar bien el camino, no se sabe a donde voy.
+- Donde está el foco, situar el ladrillo y ver de que manera de vincula con los otros.
+- Lo técnico tiene peso, como estoy pensando lo tecnico? de que manera desplegarlo para que se pueda ver ese proceso.
+
+
+
+- ¿Qué relaciones van a detonar modelos?
+- ¿Cuánto se va a poner en duda la realidad que se percibe?
+- ¿Hasta que punto vamos a confundir las formas?
+- ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
+- ¿Qué tanto importan los datos?
