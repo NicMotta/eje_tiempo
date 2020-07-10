@@ -23,6 +23,7 @@
 - [[24 de junio - Término Morfogénesis]](https://nicmotta.github.io/eje_tiempo/#24-de-junio)
 - [[3 de julio - Bocetos]](https://nicmotta.github.io/eje_tiempo/#3-de-julio)
 - [[5 de julio - Acerca del trabajo / forma de mostrarlo]](https://nicmotta.github.io/eje_tiempo/#5-de-julio)
+- [[10 de julio - Aportes Clara Cardinal y compañeros]](https://nicmotta.github.io/eje_tiempo/#10-de-julio)
 
 ___________
 
@@ -403,7 +404,7 @@ ________
 [Obra AES+F](https://aesf.art/projects/last_riot/) >> *Pone en diálogo universo lo real y lo virtual, confluencia presenta la simulación de vida a través de los medio de comunicación en los que la realidad, la sangre, la muerte, el dolor quedan liquidados, y la realidad líquida que vemos es resultado de yuxtaponer en crisis la realidad de los humanos y la virtualización del mundo y de la historia. El que lo ve empieza a preguntar por cantidad de cosas*
 
 
-## Clara:
+#### Clara:
 
 - Mucha informacion, no se sabe por donde empezar. Carl Sagan >> muy técnico
 - Explicar mejor la relacion entre los patrones naturales y los randoms? Ver ambas imagenes, comparar datos. Ver si ese patrón se va generando.
