@@ -16,9 +16,10 @@ En este ejercicio propongo desarrollar una *[forma] de visualizar ambos registro
 - ¿Cómo es la generación de un número random en los lenguajes digitales?
 - ¿Qué relaciones van a detonar modelos?
 - ¿Cuánto se va a poner en duda la realidad que se percibe?
+- ¿Qué tanto importan los datos?
 - ¿Hasta que punto vamos a confundir las formas?
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
-- ¿Qué tanto importan los datos?
+
 
 ---
 
