@@ -38,20 +38,22 @@ Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales q
 
 Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos. Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación.
 
+La relación morfogenética que planteo en este proyecto, se trata de [modelos?] inteligentes capaces de actuar, transformarse e intervenir sobre su ambiente. No se tratan de modelos observables, sino de objetos manipulables, donde su principal atractivo no reside en su resultado final sino del proceso, crecimiento y configuración.
 
-// patrón de crecimiento -> ¿Qué es un patrón de crecimiento? //
-// desarrollar morfogénesis -> Arlindo Machado //
-// conexión entre seed y lo aleatorio digital //
+La noción de morfogénesis definido por Renaud: "El proceso es, por lo tanto, más importante aquí que la imágen propiamente dicha. La novedad de esas imágenes se situaría no propiamente en su resultado - imágen, sino en los procedimientos y gestos originales (un imaginario esencialmente operatorio y no especular) que las hacen posibles" (Renaud, 1987)
+
+Podemos decir que en el mismo patrón / programación está incluida la forma, que depende de la inteligencia programada para que crezca.
+
+Si pensamos en la semilla natural, como un potencial árbol (Leví), cuyo interior contiene toda la información necesaria para su crecimiento y expansión, del mismo modo podemos articular la generación de números aleatorios en el mundo digital, a través de una seed. la semilla digital es un [.. concepto?] similar al mundo natural,
 
 
-**[El abstracto mundo de lo aleatorio]**
+`**[El abstracto mundo de lo aleatorio]**`
 
 *¿Cómo es la generación de un número aleatorio en los lenguajes digitales?*
 
-Lo aleatorio en los sistemas digitales no existen como tal, las computadoras están construidas para ser determinísticas. Es decir, dado un conjunto de entradas, las salidas van a ser siempre las mismas.
-Sabiendo entonces que una computadora, como máquina que es, no puede producir resultados espontáneos ¿Cómo es capaz de generar un numero aleatorio?
+Lo aleatorio en los sistemas digitales no existen como tal, las computadoras están construidas para ser determinísticas. Es decir, dado un conjunto de entradas, obtendremos un número de salidas.
 
-Para generar eventos aleatorios, existen dos acercamientos: el uso de números pseudoaleatorios, o tomar un número aleatorio de una fuente externa. Los números pseudoaleatorios, como su nombre da a entender, son números que no son realmente aleatorios, pero que lo parecen. Estos números siguen un patrón.
+Para generar aleatoriedad, existen dos posibilidades: el uso de números pseudoaleatorios, o tomar un número aleatorio de una fuente externa. Los números pseudoaleatorios, como su nombre da a entender, son números que no son realmente aleatorios, pero que lo parecen. Estos números siguen un patrón.
 
 *"La diferencia básica entre PRNG [numeros pseudoaleatorios] y TRNG [verdaderamente aleatorios] es fácil de entender si compara números aleatorios generados por computadora con tiradas de un dado. Debido a que los PRNG generan números aleatorios usando fórmulas matemáticas o listas precalculadas, el uso de uno corresponde a alguien que tira un dado muchas veces y anota los resultados. Cada vez que pides una tirada de dados, obtienes el siguiente en la lista. Efectivamente, los números parecen aleatorios, pero están realmente predeterminados. Los TRNG funcionan haciendo que una computadora realmente tire el dado o, más comúnmente, usen algún otro fenómeno físico que sea más fácil de conectar a una computadora que un dado." Dr Mads Haahr, Random.org*
 
