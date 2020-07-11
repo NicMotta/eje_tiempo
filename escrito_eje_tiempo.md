@@ -127,3 +127,4 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 ### Bibliografía
 
 Machado. A. (2000) *El paisaje mediático. Sobre el desafío de las poéticas tecnológicas.*
+Haahr. M. *Introduction to Randomness and Random Numbers* https://www.random.org/randomness/
