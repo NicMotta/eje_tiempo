@@ -142,11 +142,26 @@ Haahr. M. *Introduction to Randomness and Random Numbers* https://www.random.org
 Solaas, L. (2019) *Después del proyecto: Formas de vida normales y posibles en la era moderna*
 https://medium.com/@solaas/despues-del-proyecto-b5ce11595bb9
 
+
 Solaas, L. (2019) *Lógica sensible: observaciones sobre el acto de programar* https://medium.com/@solaas/l%C3%B3gica-sensible-observaciones-sobre-el-acto-de-programar-d4c15da0bfa1
+
+
+Sadin, Eric. (2018). *La humanidad aumentada: la administración digital del mundo.*
+
+
+Maturana, R. Varela, F. (1994) *De máquinas y seres vivos. Autopoiesis: la organización de lo vivo.*
 
 
 Solaas, L. (2018) *Autómatas creadores: los sistemas generativos en el cruce del arte y la tecnología.* https://medium.com/@solaas/aut%C3%B3matas-creadores-los-sistemas-generativos-en-el-cruce-del-arte-y-la-tecnolog%C3%ADa-f6d36dc1edd5
 
+
+Shiffman, Daniel. (2006-2009). *“The Nature of Code”.* https://natureofcode.com/book/introduction/
+
+
 Manovich. L. (2001) *El lenguaje de los nuevos medios de comunicación. La imagen en la era digital.*
+
+
+Maturana, R. Varela, F. (1994) *De máquinas y seres vivos. Autopoiesis: la organización de lo vivo.*
+
 
 Mumford, L. (1934) *Técnica y civilización*
