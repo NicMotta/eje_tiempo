@@ -127,3 +127,5 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 ### Bibliografía
 
 Machado. A. (2000) *El paisaje mediático. Sobre el desafío de las poéticas tecnológicas.*
+Renaud, Alain. (1987). *Nouvelles images, nouvelle culture. vers un imaginaire numérique*,
+Cahiers IntemationauxdeSociologi.e, vol. LXXXII. jan/juin.
