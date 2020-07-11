@@ -123,10 +123,30 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 - [*Offset XYZ* - 2018](http://andreaslutz.com/offset-xyz/)
 
 
+**Casey Reas** >>
+- [Processing](http://reas.com)
 
-### Bibliografía
+
+
+### [Bibliografía citada]
 
 Machado. A. (2000) *El paisaje mediático. Sobre el desafío de las poéticas tecnológicas.*
 
 
 Haahr. M. *Introduction to Randomness and Random Numbers* https://www.random.org/randomness/
+
+
+### [Bibliografía leida]
+
+
+Solaas, L. (2019) *Después del proyecto: Formas de vida normales y posibles en la era moderna*
+https://medium.com/@solaas/despues-del-proyecto-b5ce11595bb9
+
+Solaas, L. (2019) *Lógica sensible: observaciones sobre el acto de programar* https://medium.com/@solaas/l%C3%B3gica-sensible-observaciones-sobre-el-acto-de-programar-d4c15da0bfa1
+
+
+Solaas, L. (2018) *Autómatas creadores: los sistemas generativos en el cruce del arte y la tecnología.* https://medium.com/@solaas/aut%C3%B3matas-creadores-los-sistemas-generativos-en-el-cruce-del-arte-y-la-tecnolog%C3%ADa-f6d36dc1edd5
+
+Manovich. L. (2001) *El lenguaje de los nuevos medios de comunicación. La imagen en la era digital.*
+
+Mumford, L. (1934) *Técnica y civilización*
