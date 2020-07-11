@@ -51,7 +51,7 @@ Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros
 
 La relación morfogenética que planteo en este proyecto, se trata de modelos inteligentes capaces de actuar, transformarse e intervenir sobre su ambiente. No se tratan de modelos observables, sino de objetos manipulables, donde su principal atractivo no reside en su resultado final, yace en el proceso, crecimiento y configuración.
 
-En el libro de Arlindo Machado, El paisaje mediático, encuentro una cita de Renaud que me permite entender el concepto: "El proceso es, por lo tanto, más importante aquí que la imágen propiamente dicha. La novedad de esas imágenes se situaría no propiamente en su resultado - imágen, sino en los procedimientos y gestos originales (un imaginario esencialmente operatorio y no especular) que las hacen posibles"
+En el libro de Arlindo Machado, El paisaje mediático, encuentro una cita de Renaud que me permite entender el concepto: *"El proceso es, por lo tanto, más importante aquí que la imágen propiamente dicha. La novedad de esas imágenes se situaría no propiamente en su resultado - imágen, sino en los procedimientos y gestos originales (un imaginario esencialmente operatorio y no especular) que las hacen posibles"*
 
 Podemos decir que en el mismo patrón / programación está incluida la forma, que depende de la inteligencia programada para que crezca.
 
@@ -64,7 +64,7 @@ Lo aleatorio en los sistemas digitales no existen como tal, las computadoras est
 
 Para generar aleatoriedad, existen dos posibilidades: el uso de números pseudoaleatorios, o tomar un número aleatorio de una fuente externa. Los números pseudoaleatorios, como su nombre da a entender, son números que no son realmente aleatorios, pero que lo parecen. Estos números siguen un patrón.
 
-*"La diferencia básica entre PRNG [numeros pseudoaleatorios] y TRNG [verdaderamente aleatorios] es fácil de entender si compara números aleatorios generados por computadora con tiradas de un dado. Debido a que los PRNG generan números aleatorios usando fórmulas matemáticas o listas precalculadas, el uso de uno corresponde a alguien que tira un dado muchas veces y anota los resultados. Cada vez que pides una tirada de dados, obtienes el siguiente en la lista. Efectivamente, los números parecen aleatorios, pero están realmente predeterminados. Los TRNG funcionan haciendo que una computadora realmente tire el dado o, más comúnmente, usen algún otro fenómeno físico que sea más fácil de conectar a una computadora que un dado." Dr Mads Haahr, Random.org*
+*"La diferencia básica entre PRNG [numeros pseudoaleatorios] y TRNG [verdaderamente aleatorios] es fácil de entender si compara números aleatorios generados por computadora con tiradas de un dado. Debido a que los PRNG generan números aleatorios usando fórmulas matemáticas o listas precalculadas, el uso de uno corresponde a alguien que tira un dado muchas veces y anota los resultados. Cada vez que pides una tirada de dados, obtienes el siguiente en la lista. Efectivamente, los números parecen aleatorios, pero están realmente predeterminados. Los TRNG funcionan haciendo que una computadora realmente tire el dado o, más comúnmente, usen algún otro fenómeno físico que sea más fácil de conectar a una computadora que un dado." Haahr, Random.org*
 
 Tomando como ejemplo la tirada de dados, podemos decir que no existen números aleatorios en la realidad, sino que existe una incapacidad del humano de predecir el resultado.
 
