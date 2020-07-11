@@ -127,16 +127,3 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 ### Bibliografía
 
 **Arlindo Machado** - *El paisaje mediático*
-
-
-MORFOGENÉTICO >> En el mismo patrón / programación está incluida la forma. La forma que depende de la inteligencia programada para que crezca.
-Arte generativo, patrón interno > Leo Solaas
-
-
-
-**Estructura**
-- Abstract
-- Memoria procesual / conceptual
-- Descripción técnica del proyecto
- - Metodología tecnológica
- - Investigación tecnológica
