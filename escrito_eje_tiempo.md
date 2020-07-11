@@ -44,7 +44,7 @@ La noción de morfogénesis definido por Renaud: "El proceso es, por lo tanto, m
 
 Podemos decir que en el mismo patrón / programación está incluida la forma, que depende de la inteligencia programada para que crezca.
 
-Si pensamos en la semilla natural, como un potencial árbol (Leví), cuyo interior contiene toda la información necesaria para su crecimiento y expansión, del mismo modo podemos articular la generación de números aleatorios en el mundo digital, a través de una seed. la semilla digital es un [.. concepto?] similar al mundo natural,
+Si pensamos en la semilla natural, como un potencial árbol (Leví), cuyo interior contiene toda la información necesaria para su crecimiento y expansión, del mismo modo podemos articular la generación de números aleatorios en el mundo digital, a través de una seed. la semilla digital es un concepto similar al mundo natural, donde asigna el orden por el cual empezará a "contar" los números aleatorios.
 
 
 `**[El abstracto mundo de lo aleatorio]**`
