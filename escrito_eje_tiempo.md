@@ -51,7 +51,7 @@ Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros
 
 La relación morfogenética que planteo en este proyecto, se trata de modelos inteligentes capaces de actuar, transformarse e intervenir sobre su ambiente. No se tratan de modelos observables, sino de objetos manipulables, donde su principal atractivo no reside en su resultado final, yace en el proceso, crecimiento y configuración.
 
-La noción de morfogénesis definido por Renaud: "El proceso es, por lo tanto, más importante aquí que la imágen propiamente dicha. La novedad de esas imágenes se situaría no propiamente en su resultado - imágen, sino en los procedimientos y gestos originales (un imaginario esencialmente operatorio y no especular) que las hacen posibles" (Renaud, 1987)
+En el libro de Arlindo Machado, El paisaje mediático, encuentro una cita de Renaud que me permite entender el concepto: "El proceso es, por lo tanto, más importante aquí que la imágen propiamente dicha. La novedad de esas imágenes se situaría no propiamente en su resultado - imágen, sino en los procedimientos y gestos originales (un imaginario esencialmente operatorio y no especular) que las hacen posibles"
 
 Podemos decir que en el mismo patrón / programación está incluida la forma, que depende de la inteligencia programada para que crezca.
 
@@ -127,5 +127,3 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 ### Bibliografía
 
 Machado. A. (2000) *El paisaje mediático. Sobre el desafío de las poéticas tecnológicas.*
-Renaud, Alain. (1987). *Nouvelles images, nouvelle culture. vers un imaginaire numérique*,
-Cahiers IntemationauxdeSociologi.e, vol. LXXXII. jan/juin.
