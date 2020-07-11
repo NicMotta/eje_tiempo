@@ -126,4 +126,4 @@ Como tercera parte de la investigación, utilizo Rhinoceros y Grasshopper para e
 
 ### Bibliografía
 
-**Arlindo Machado** - *El paisaje mediático*
+Machado. A. (2000) *El paisaje mediático. Sobre el desafío de las poéticas tecnológicas.*
