@@ -19,6 +19,17 @@ En este proyecto propongo desarrollar una **[forma] de visualizar ambos registro
 - ¿Hasta que punto vamos a confundir las formas?
 - ¿Cómo podemos convivir con un universo digital y uno natural en simultáneo en el espacio físico?
 
+### [Palabras clave]
+
+- semillas
+- programación
+- patrón
+- sistemas
+- morfogénesis
+- numérico
+- natural
+- digital
+- aleatorio
 
 ### [Memomoria procesual / conceptual]
 
@@ -34,22 +45,20 @@ Pensar el espacio como un mar de datos numéricos, donde cada porción de inform
 
 Es por eso que la pregunta sobre la posibilidad de que haya espacios virtuales que dialoguen con los naturales es la cuestión que me moviliza a investigar, tras la observación de los registros de Muru7.8 me pregunto:
 
-*¿Cómo es la relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?*
+**¿Cómo es la relación [morfológica / morfogenética] entre un modelo de procedencia digital / [numérica] y uno natural / [sistemas naturales]?**
 
-Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos. Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos plasmado por la programación.
+Aproximarnos a nuestro hábitat humano sin los restringidos límites de nuestros sentidos. Volver a ver, con otros parámetros desde una mirada sin filtros, la configuración del mundo por medio de datos. Esto me llevó a pensar en en la posibilidad de configurar un mundo a través de datos, plasmado en una programación.
 
-La relación morfogenética que planteo en este proyecto, se trata de [modelos?] inteligentes capaces de actuar, transformarse e intervenir sobre su ambiente. No se tratan de modelos observables, sino de objetos manipulables, donde su principal atractivo no reside en su resultado final sino del proceso, crecimiento y configuración.
+La relación morfogenética que planteo en este proyecto, se trata de modelos inteligentes capaces de actuar, transformarse e intervenir sobre su ambiente. No se tratan de modelos observables, sino de objetos manipulables, donde su principal atractivo no reside en su resultado final, yace en el proceso, crecimiento y configuración.
 
 La noción de morfogénesis definido por Renaud: "El proceso es, por lo tanto, más importante aquí que la imágen propiamente dicha. La novedad de esas imágenes se situaría no propiamente en su resultado - imágen, sino en los procedimientos y gestos originales (un imaginario esencialmente operatorio y no especular) que las hacen posibles" (Renaud, 1987)
 
 Podemos decir que en el mismo patrón / programación está incluida la forma, que depende de la inteligencia programada para que crezca.
 
-Si pensamos en la semilla natural, como un potencial árbol (Leví), cuyo interior contiene toda la información necesaria para su crecimiento y expansión, del mismo modo podemos articular la generación de números aleatorios en el mundo digital, a través de una seed. la semilla digital es un concepto similar al mundo natural, donde asigna el orden por el cual empezará a "contar" los números aleatorios.
+Si pensamos en la semilla natural, como un potencial árbol, cuyo interior contiene toda la información necesaria para su crecimiento y expansión, del mismo modo podemos articular la generación de números aleatorios en el mundo digital, a través de una seed. La semilla digital es un concepto similar al mundo natural, donde define el orden por el cual empezará a "contar" los números aleatorios.
 
 
-`**[El abstracto mundo de lo aleatorio]**`
-
-*¿Cómo es la generación de un número aleatorio en los lenguajes digitales?*
+**¿Cómo es la generación de un número aleatorio en los lenguajes digitales?**
 
 Lo aleatorio en los sistemas digitales no existen como tal, las computadoras están construidas para ser determinísticas. Es decir, dado un conjunto de entradas, obtendremos un número de salidas.
 
@@ -60,7 +69,7 @@ Para generar aleatoriedad, existen dos posibilidades: el uso de números pseudoa
 Tomando como ejemplo la tirada de dados, podemos decir que no existen números aleatorios en la realidad, sino que existe una incapacidad del humano de predecir el resultado.
 
 
-En este ejercicio propongo desarrollar una [forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes, generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque, desafíen nuestra capacidad de diferenciarlos.
+En este proyecto propongo desarrollar una [forma] de visualizar ambos registros / modelos para evidenciar estos puntos de encuentro o similitudes, generar paisajes tanto digitales como físicos en los que los modelos de procedencia natural y digital se mezclan, se confunden, se pongan en jaque, desafíen nuestra capacidad de diferenciarlos.
 
 
 **Preguntas para pensar**
