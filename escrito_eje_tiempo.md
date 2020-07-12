@@ -31,7 +31,7 @@ En este proyecto propongo desarrollar una **[forma] de visualizar ambos registro
 - digital
 - aleatorio
 
-### [Memomoria procesual / conceptual]
+### [Memoria procesual / conceptual]
 
 
 Mi acercamiento a la producción de arte elecrónico se desarrolla principalmente dentro de un colectivo de artistas llamado [Muru 7.8](https://muru7-8.github.io), donde nuestra actual investigacion artística deviene de la observación del crecimiento de semillas, plantas y diferentes organismos que habitan en la naturaleza, a través de un sensor podemos registrar el el crecimiento de dichos sistemas y visibilizarlos como puntos en el espacio que conforman una nube de puntos.
