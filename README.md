@@ -1,5 +1,3 @@
-# Desarrollo del proyecto EJE TIEMPO
-### Primer Cuatrimestre  / MAE UNTREF / 2020
 ### [Nic Motta](https://nicmotta.github.io)
 ### [Escrito Eje Tiempo](https://nicmotta.github.io/eje_tiempo/escrito_eje_tiempo)
 
