@@ -37,7 +37,7 @@ Mi acercamiento a la producción de arte elecrónico se desarrolla principalment
 
 **Modelo: sensado de planta Achira [Muru7.8]**
 
-![](https://muru7-8.github.io/proyecto_observatorio/proceso/achira_1.gif)
+![](https://muru7-8.github.io/observatorio-resonancia/proceso/achira_1.gif)
 
 
 Pensar el espacio como un mar de datos numéricos, donde cada porción de información recolectada es reorganizada en un volumen digital, me lleva a pensar que hay nuevas maneras de entender nuestro hábitat basado en inputs que no obedecen a nuestros sentidos primarios o que están más allá de nuestra propia percepción del espacio.
